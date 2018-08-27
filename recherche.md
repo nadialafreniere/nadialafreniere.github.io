@@ -1,4 +1,4 @@
-Dans el cadre de mon doctorat, j'étudie les propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires qui correspondent à des mélanges de cartes. C'est ce que j'explique dans les médias ci-dessous :
+Dans le cadre de mon doctorat, j'étudie les propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires qui correspondent à des mélanges de cartes. C'est ce que j'explique dans les médias ci-dessous :
 
 [Vidéo pour l'émission _Électrons Libres_, de Télé-Québec](http://electronslibres.telequebec.tv/episodes/36666)
 
