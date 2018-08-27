@@ -2,7 +2,7 @@
 
 Étudiante au doctorat en mathématiques combinatoires à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 
-![En présentant la topologie du Cloud Gate à des élèves, à Chicago.](photo_Nadia.jpg " Étudiante au doctorat en mathématiques combinatoire    s à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).")
+[photo](photo_Nadia.jpg " En présentant la topologie du Cloud Gate à des élèves, à Chicago.")
 
 Je suis également chroniqueuse de mathématiques à l'émissionde radio [_L'oeuf ou la poule_](http://www.loeufoulapoule.org) et [déléguée étudiante](http://www.ca-uqam.info) au Conseil  d'administration de l'UQAM.
 
@@ -10,7 +10,7 @@ Pour en connaître davantage sur mon projet de docorat et mes projets de recherc
 
 ## Pour me contacter :
 
-*@* [nom_de_famille].[prenom]**.2**@courrier.uqam.ca
+**@** [nom_de_famille].[prenom]**.2**@courrier.uqam.ca
 
 Université du Québec à Montréal
 Pavillon Président-Kennedy
