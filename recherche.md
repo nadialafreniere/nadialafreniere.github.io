@@ -2,6 +2,8 @@ Dans le cadre de mon doctorat, j'étudie les propriétés spectrales (valeurs pr
 
 [Vidéo pour l'émission _Électrons Libres_, de Télé-Québec](http://electronslibres.telequebec.tv/episodes/36666)
 
+[![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](http://zonevideo.telequebec.tv/media/36666/des-mathematiques-a-la-base-de-l-ordre-et-du-desordre/electrons-libres)
+
 [Segment radio pour l'émission _Les Années lumière_ de Radio-Canada](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
 
 [//]: #(C'est aussi ce que j'ai présenté au concours _Ma thèse en 180 secondes_, (Vidéo à venir.))
