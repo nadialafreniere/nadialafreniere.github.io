@@ -1,5 +1,3 @@
-# Nadia Lafrenière
-
 Étudiante au doctorat en mathématiques combinatoires à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 
 ![photo](photo_Nadia.jpg " En présentant la topologie du Cloud Gate à des élèves, à Chicago.")
