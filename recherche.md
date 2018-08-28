@@ -1,15 +1,14 @@
 Dans le cadre de mon doctorat, j'étudie les propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires qui correspondent à des mélanges de cartes. C'est ce que j'explique dans les médias ci-dessous :
 
-[Vidéo pour l'émission _Électrons Libres_, de Télé-Québec](http://electronslibres.telequebec.tv/episodes/36666)
-
+- Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec :
 [![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](http://zonevideo.telequebec.tv/media/36666/des-mathematiques-a-la-base-de-l-ordre-et-du-desordre/electrons-libres)
 
-[Segment radio pour l'émission _Les Années lumière_ de Radio-Canada](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
+- [Dans un segment radio pour l'émission _Les Années lumière_ de Radio-Canada](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
 
 [//]: #(C'est aussi ce que j'ai présenté au concours _Ma thèse en 180 secondes_, (Vidéo à venir.))
 
 Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et plus spécifiquement sur les palindromes. Il a été réalisé à l'Université du Québec à Montréal sous la co-supervision de [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et de [Xavier Provençal](http://lama.univ-savoie.fr/pagesmembres/provencal/). 
-- [Nadia Lafrenière. _Complexité palindromique des mots et des abres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf) ou [sur le dépôt institutionnel](http://www.archipel.uqam.ca/8647/)
+- [Nadia Lafrenière. _Complexité palindromique des mots et des abres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
 
 ## Articles et exposés de recherche
 
