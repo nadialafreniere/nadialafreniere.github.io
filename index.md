@@ -1,4 +1,4 @@
-<img style="float: right;" src="photo_Nadia.jpg">
+<img style="float: right;" src="photo_Nadia.jpg" title="En présentant la topologie du Cloud Gate à des élèves, à Chicago.">
 
 Étudiante au **doctorat en mathématiques combinatoires** à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 
