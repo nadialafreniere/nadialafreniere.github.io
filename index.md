@@ -9,7 +9,7 @@ Pour en connaître davantage sur mon **projet de doctorat** et mes projets de re
 
 ## Pour me contacter :
 
-**@** [nom_de_famille].[prenom].2@courrier.uqam.ca
+[nom_de_famille].[prenom].2@courrier.uqam.ca
 
 Université du Québec à Montréal <br />
 Pavillon Président-Kennedy  <br />
