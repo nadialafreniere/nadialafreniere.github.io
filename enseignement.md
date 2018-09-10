@@ -11,6 +11,6 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 
 Pour la première semaine, des exercices sont proposés et un corrigé sera déposé ultérieurement:
 * [Exercices](Exercices1.pdf) : Pour cette série d'exercices, on n'a pas fini de réviser la matière. Vous êtes en mesure de faire les exercices #1, #2 a, b, c, d et h, et # 3d. Si vous voulez essayer les autres exercices, n'hésitez pas, vous avez déjà su les faire!
-* Corrigé (à venir)
+* [Corrigé](Exercices1-corrige.pdf)
 
 
