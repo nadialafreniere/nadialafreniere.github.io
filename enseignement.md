@@ -4,7 +4,7 @@
 
 ## Devoirs
 
-Le [devoir](Devoir1.pdf) doit être rendu le 3 octobre. Nous verrons le 26 septembre comment faire les exercices #3 et #4g.
+Le [devoir](Devoir1.pdf) était à rendre le 3 octobre. Les [solutions](Devoir1-solutions.pdf) sont maintenant en ligne.
 
 ## Exercices à faire
 Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septembre.
