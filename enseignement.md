@@ -16,3 +16,4 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 * [Exercices 3](Exercices3.pdf) : Pour la séance du 22 septembre.
 * [Exercices 4](Exercices4.pdf) : Pour la séance du 29 septembre.
 * [Exercices 5](Exercices5.pdf) : Pour la séance du 6 octobre.
+* [Exercices 6](Exercices6.pdf) : Pour la séance du 13 octobre.
