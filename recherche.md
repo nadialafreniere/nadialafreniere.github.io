@@ -8,7 +8,7 @@ Dans le cadre de mon doctorat, j'étudie les propriétés spectrales (valeurs pr
 [//]: #(C'est aussi ce que j'ai présenté au concours _Ma thèse en 180 secondes_, (Vidéo à venir.))
 
 Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et plus spécifiquement sur les palindromes. Il a été réalisé à l'Université du Québec à Montréal sous la co-supervision de [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et de [Xavier Provençal](http://lama.univ-savoie.fr/pagesmembres/provencal/). 
-- [Nadia Lafrenière. _Complexité palindromique des mots et des abres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
+- [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
 
 ## Articles et exposés de recherche
 
