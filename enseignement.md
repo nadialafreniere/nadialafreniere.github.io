@@ -8,7 +8,7 @@ L'examen intra aura lieu mercredi le 17 octobre de 18h à 21h. La calculatrice, 
 
 Les salles sont SH-R810 et PK-1350. Vous devez aller dans la salle qui vous a été attribuée :
 * Les personnes dont le nom de famille commence par une lettre entre A et G, dans la salle PK-1350.
-* Celles dont le nom de famille commence par une lettre entre H et K, dans la salle habituelle du cours (SH-R810).
+* Celles dont le nom de famille commence par une lettre entre H et Z, dans la salle habituelle du cours (SH-R810).
 
 
 ## Devoirs
