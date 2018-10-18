@@ -4,12 +4,8 @@
 
 ## Examen intra
 
-L'examen intra aura lieu mercredi le 17 octobre de 18h à 21h. La calculatrice, comme tout appareil électronique, n'est pas permise.
-
-Les salles sont SH-R810 et PK-1350. Vous devez aller dans la salle qui vous a été attribuée :
-* Les personnes dont le nom de famille commence par une lettre entre A et G, dans la salle PK-1350.
-* Celles dont le nom de famille commence par une lettre entre H et Z, dans la salle habituelle du cours (SH-R810).
-
+L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
+* [L'énoncé](Examen1.pdf) et la [solution](Examen1-solutions.pdf) sont en ligne.
 
 ## Devoirs
 
