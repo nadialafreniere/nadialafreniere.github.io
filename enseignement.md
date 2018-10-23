@@ -2,6 +2,10 @@
 
 [Plan de cours](MAT0339-A18-plan_de_cours.pdf)
 
+## Notes de cours
+
+Des [notes de cours à compléter](Notes_trouees8.pdf) sont disponibles pour la première partie du cours du 24 octobre. Je vous suggère fortement de les imprimer.
+
 ## Examen intra
 
 L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
@@ -9,7 +13,9 @@ L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
 
 ## Devoirs
 
-Le [devoir](Devoir1.pdf) était à rendre le 3 octobre. Les [solutions](Devoir1-solutions.pdf) sont maintenant en ligne.
+Le devoir 2 sera en ligne le 24 octobre. Il est à rendre le 7 novembre.
+
+Le [devoir 1](Devoir1.pdf) était à rendre le 3 octobre. Les [solutions](Devoir1-solutions.pdf) sont maintenant en ligne.
 
 ## Exercices à faire
 Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septembre.
