@@ -13,7 +13,7 @@ L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
 
 ## Devoirs
 
-Le devoir 2 sera en ligne le 24 octobre. Il est à rendre le 7 novembre.
+Le [devoir 2](Devoir2.pdf) est en ligne. Il est à rendre le 7 novembre. Les exercices pour lesquels nous n'avons pas encore vu la matière sont identifiés par un astérisque.
 
 Le [devoir 1](Devoir1.pdf) était à rendre le 3 octobre. Les [solutions](Devoir1-solutions.pdf) sont maintenant en ligne.
 
@@ -28,3 +28,4 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 * [Exercices 4](Exercices4.pdf) : Pour la séance du 29 septembre.
 * [Exercices 5](Exercices5.pdf) : Pour la séance du 6 octobre.
 * [Exercices 6](Exercices6.pdf) : Pour la séance du 13 octobre.
+* [Exercices 8](Exercices8.pdf) : Pour la séance du 27 octobre.
