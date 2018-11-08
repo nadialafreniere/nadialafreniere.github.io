@@ -1,4 +1,4 @@
-À l'automne 2018, j'enseignerai le cours _Mathématiques générales (MAT0339)_ à l'UQAM.
+À l'automne 2018, j'enseigne le cours _Mathématiques générales (MAT0339)_ à l'UQAM.
 
 [Plan de cours](MAT0339-A18-plan_de_cours.pdf)
 
@@ -13,7 +13,7 @@ L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
 
 ## Devoirs
 
-Le [devoir 2](Devoir2.pdf) est en ligne. Il est à rendre le 7 novembre. Après le cours du 31 octobre, vous pouvez résoudre tous les problèmes.
+L'énoncé du [devoir 2](Devoir2.pdf) est en ligne. Les solutions seront en ligne prochainement.
 
 Le [devoir 1](Devoir1.pdf) était à rendre le 3 octobre. Les [solutions](Devoir1-solutions.pdf) sont maintenant en ligne.
 
@@ -30,3 +30,4 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 * [Exercices 6](Exercices6.pdf) : Pour la séance du 13 octobre.
 * [Exercices 8](Exercices8.pdf) : Pour la séance du 27 octobre.
 * [Exercices 9](Exercices9.pdf) : Pour la séance du 3 novembre.
+* [Exercices 10](Exercices10.pdf) : Pour la séance du 10 novembre.
