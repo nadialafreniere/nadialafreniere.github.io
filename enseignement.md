@@ -30,4 +30,4 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 * [Exercices 6](Exercices6.pdf) : Pour la séance du 13 octobre.
 * [Exercices 8](Exercices8.pdf) : Pour la séance du 27 octobre.
 * [Exercices 9](Exercices9.pdf) : Pour la séance du 3 novembre.
-* [Exercices 10](Exercices10.pdf) : Pour la séance du 10 novembre.
+* [Exercices 10](ExercicesX.pdf) : Pour la séance du 10 novembre.
