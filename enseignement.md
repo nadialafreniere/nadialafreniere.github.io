@@ -13,9 +13,9 @@ L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
 
 ## Devoirs
 
-Le [devoir 3](Devoir\ 3.pdf) est à rendre le 28 novembre.
+Le [devoir 3](Devoir3.pdf) est à rendre le 28 novembre.
 
-L'énoncé du [devoir 2](Devoir2.pdf) et les [solutions](Devoir\ 2-solutions.pdf) sont en ligne.
+L'énoncé du [devoir 2](Devoir2.pdf) et les [solutions](Devoir2-solutions.pdf) sont en ligne.
 
 Le [devoir 1](Devoir1.pdf) était à rendre le 3 octobre. Les [solutions](Devoir1-solutions.pdf) sont maintenant en ligne.
 
