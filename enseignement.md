@@ -33,3 +33,5 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 * [Exercices 8](Exercices8.pdf) : Pour la séance du 27 octobre.
 * [Exercices 9](Exercices9.pdf) : Pour la séance du 3 novembre.
 * [Exercices 10](Exercices10.pdf) : Pour la séance du 10 novembre.
+* [Exercices 11](Exercices11.pdf) : Pour la séance du 17 novembre.
+Comme il n'y a pas de cours le 21 novembre, les exercices pour la séance du 24 novembre seront en ligne dès le 19 novembre.
