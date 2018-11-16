@@ -12,10 +12,13 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 
 ## Articles et exposés de recherche
 
+### Article soumis
+- [Nadia Lafrenière. Eigenvalues of symmetrized shuffling operators. FPSAC 2019.](lafreniere_fpsac2019.pdf)
+
 ### Articles parus
-- [Damien Jamet, Nadia Lafrenière, Xavier Provençal. _Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_. DGCI 2016, pp. 45-56.]()
+- [Damien Jamet, Nadia Lafrenière, Xavier Provençal. _Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_. DGCI 2016, pp. 45-56.](JLP-DGCI2016.pdf)
 - [Srecko Brlek, Nadia Lafrenière, Xavier Provençal. _Palindromic Complexity of Trees_. DLT 2015, pp. 155-166.](https://arxiv.org/abs/1505.02695)
-- [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.]()
+- [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Exposés de recherche
 - _Propriétés spectrales des opérateurs de mélange symétrisés_, Séminaire du groupe de travail Combinatoire énumérative et algébrique du LaBRI, Bordeaux, 18 mai 2018.
