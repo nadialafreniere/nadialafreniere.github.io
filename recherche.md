@@ -13,7 +13,7 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 ## Articles et exposés de recherche
 
 ### Article soumis
-- [Nadia Lafrenière. Eigenvalues of symmetrized shuffling operators. FPSAC 2019.](lafreniere_FPSAC2019_preprint.pdf)
+- [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 pp.](lafreniere_FPSAC2019_preprint.pdf)
 
 ### Articles parus
 - [Damien Jamet, Nadia Lafrenière, Xavier Provençal. _Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_. DGCI 2016, pp. 45-56.](JLP-DGCI2016.pdf)
