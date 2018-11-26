@@ -4,9 +4,17 @@
 
 ## Notes de cours
 
-Des [notes de cours à compléter](Notes_trouees8.pdf) sont disponibles pour la première partie du cours du 24 octobre. Je vous suggère fortement de les imprimer.
+Des [notes de cours à compléter](Notes_trouees13.pdf) sont disponibles pour la première partie du cours du 28 novembre. Je vous suggère fortement de les imprimer.
 
-## Examen intra
+Des [notes de cours à compléter](Notes_trouees8.pdf) étaient disponibles pour la première partie du cours du 24 octobre.
+
+## Examens
+
+L'examen final aura lieu mercredi le 12 décembre de 18h à 21h.
+Les salles sont les mêmes qu'à l'examen intra. Vous devez aller dans la salle qui vous a été attribuée :
+
+  *   Les personnes dont le nom de famille commence par une lettre entre A et G, dans la salle PK-1350.
+  *   Celles dont le nom de famille commence par une lettre entre H et Z, dans la salle habituelle du cours (SH-R810).
 
 L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
 * [L'énoncé](Examen1.pdf) et la [solution](Examen1-solutions.pdf) sont en ligne.
