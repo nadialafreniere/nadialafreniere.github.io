@@ -11,6 +11,11 @@ Des [notes de cours à compléter](Notes_trouees8.pdf) étaient disponibles pour
 ## Examens
 
 L'examen final aura lieu mercredi le 12 décembre de 18h à 21h.
+
+Les notions pour l'examen sont toutes celles vues depuis l'examen intra : Trigonométrie et géométrie, fonctions trigonométriques, vecteurs, matrices, opérations sur les vecteurs et les matrices et systèmes d'équations linéaires.
+
+L'utilisation d'une calculatrice scientifique est permise, mais la calculatrice graphique n'est pas autorisée. Aucun autre appareil électronique n'est permis.
+
 Les salles sont les mêmes qu'à l'examen intra. Vous devez aller dans la salle qui vous a été attribuée :
 
   *   Les personnes dont le nom de famille commence par une lettre entre A et G, dans la salle PK-1350.
@@ -21,7 +26,7 @@ L'examen intra a eu lieu mercredi le 17 octobre de 18h à 21h.
 
 ## Devoirs
 
-Le [devoir 3](Devoir3.pdf) est à rendre le 28 novembre.
+Le [devoir 3](Devoir3.pdf) était à rendre le 28 novembre. Les solutions seront bientôt en ligne.
 
 L'énoncé du [devoir 2](Devoir2.pdf) et les [solutions](Devoir2-solutions.pdf) sont en ligne.
 
@@ -43,4 +48,5 @@ Les séances de démonstration sont  **le samedi à 9h**, à partir du 15 septem
 * [Exercices 10](Exercices10.pdf) : Pour la séance du 10 novembre.
 * [Exercices 11](Exercices11.pdf) : Pour la séance du 17 novembre.
 * [Exercices 12](Exercices12.pdf) : Pour la séance du 24 novembre.
-* [Exercices 13](Exercices13.pdf) : Pour la séance du 1er décembre.
+* [Exercices 13](Exercices13.pdf) : Pour la séance du 1er décembre. J'ai modifié les exercices juste après le cours du 28 novembre parce que nous n'avions pas vu la théorie nécessaire pour faire certains exercices.
+* [Exercices 14](Exercices14.pdf) : Pour la séance du 8 décembre.
