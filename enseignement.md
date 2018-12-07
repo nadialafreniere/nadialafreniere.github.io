@@ -21,7 +21,7 @@ Les salles sont les mêmes qu'à l'examen intra. Vous devez aller dans la salle 
   *   Les personnes dont le nom de famille commence par une lettre entre A et G, dans la salle PK-1350.
   *   Celles dont le nom de famille commence par une lettre entre H et Z, dans la salle habituelle du cours (SH-R810).
 
-L'**examen** intra a eu lieu mercredi le 17 octobre de 18h à 21h.
+L'**examen intra** a eu lieu mercredi le 17 octobre de 18h à 21h.
 * [L'énoncé](Examen1.pdf) et la [solution](Examen1-solutions.pdf) sont en ligne.
 
 ## Devoirs

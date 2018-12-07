@@ -1,1 +1,21 @@
-À venir!
+<img style="float: right;" src="image_nadia_radio.png" title="Dans le cadre d'un enregistrement de L'oeuf ou la poule, lors du Congrès de l'ACFAS, en 2016.">
+
+En plus de mes activités comme étudiante, je suis impliquée dans la vulgarisation des mathématiques auprès d'une diversité de publics. Pour chacun de ces ateliers, aucune connaissance avancée des mathématiques n'est requise.
+
+## Pour tous
+Je suis **chroniqueuse de mathématiques** à l'**émission de radio [_L'oeuf ou la poule_](http://www.loeufoulapoule.org)**. Avec Stéphanie Schanck (et autrefois avec [Élise Vandomme](http://people.fjfi.cvut.cz/vandoeli/)), nous présentons chaque mois des segments radio de 7 minutes sur un sujet d'actualités ou un problème mathématique. Le tout a lieu dans une émission concoctée par des scientifiques passionné.es! Vous pouvez entendre [certaines chroniques](http://loeufoulapoule.org/category/chroniques/maths/) et [toutes les émissions](http://www.choq.ca/emissions-details/loeuf-ou-la-poule/) en ligne.
+
+Avec Stéphanie Schanck, on a aussi mis sur pied les **[balades Maths en ville](http://coeurdessciences.uqam.ca/component/eventlist/details/765-maths-en-ville.html)**, présentées à un public adulte ou adolescent depuis plus de trois ans. Il s'agit d'une promenade au centre-ville où nous invitons chaque personne à regarder la ville avec des lunettes mathématiques. Chaque été, nous sommes plusieurs guides à présenter cette activité.
+
+Lors des dernières éditions du 24 heures de sciences, j'ai présenté avec [Pauline Hubert](http://phubert.github.io), Mélodie Lapointe et Fanny Desjardins une activité pour démystifier les **mathématiques de la magie**, où on surprend le public, sans toutefois le laisser sur sa faim!
+
+## Vous êtes enseignante ou enseignant? **Invitez-moi en classe!**
+
+**Au niveau collégial**, je propose par le biais de [l'Institut des Sciences mathématiques](http://ism.uqam.ca/accueil/outreach/#1492) une conférence sur _Comment les mathématiques peuvent vous aider à trouver l'âme soeur_! La [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) se prête aussi très bien à un public de niveau collégial.
+
+
+**Au niveau secondaire**, je donne régulièrement la [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) à des groupes d'écoles secondaires en visite au centre-ville.
+
+**Au niveau primaire**, je présente avec le Coeur des Sciences la pièce de théâtre [_L'été, c'est mathématique!_](http://coeurdessciences.uqam.ca/component/eventlist/details/710-l-ete-c-est-mathematique.html) En solo, je peux aussi présenter un atelier sur la théorie des graphes. Enfin, l'activité _Maths et magie_ se prête bien à un public de tous les niveaux primaires.
+
+
