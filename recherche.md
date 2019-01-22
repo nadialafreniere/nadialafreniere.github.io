@@ -21,6 +21,7 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Exposés de recherche
+- _Valeurs propres des opérateurs de mélange symétrisés_, Séminaire de combinatoire du LaCIM, Montréal, 23 novembre 2018.
 - _Propriétés spectrales des opérateurs de mélange symétrisés_, Séminaire du groupe de travail Combinatoire énumérative et algébrique du LaBRI, Bordeaux, 18 mai 2018.
 - _Spectral properties of shuffling operators in symmetric group algebras_, American Mathematical Society, Sectional Meeting, Boston, 21 avril 2018.
 - _Eigenvalues of shuffling operators and mixing time_, Graduate Student Combinatorics Conference, Dallas, 7 avril 2018.
