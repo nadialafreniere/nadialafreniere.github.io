@@ -27,5 +27,5 @@ Un outil que je trouve très pratique sert à appeler SageMath à partir de LaTe
 Une belle image réalisée avec l'aide de SageMath, illustrant le  [théorème des quatre couleurs](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_des_quatre_couleurs). Défi : Trouver le lac qui n'est pas la même couleur que l'océan.
 ![Le théorème des quatre couleurs sur la carte du monde](4couleurs.png)
 
-### Développer par SageMath
+### Développer pour SageMath
 Vous ne trouvez pas toutes les fonctionnalités voulues dans SageMath? [Contribuez au logiciel](http://doc.sagemath.org/html/en/developer/) ou participez aux [journées SageMath](https://wiki.sagemath.org/Workshops).
