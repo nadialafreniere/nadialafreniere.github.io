@@ -1,6 +1,6 @@
 <img style="float: right;" src="image_nadia_radio.png" title="Dans le cadre d'un enregistrement de L'oeuf ou la poule, lors du Congrès de l'ACFAS, en 2016.">
 
-En plus de mes activités comme étudiante, je suis impliquée dans la vulgarisation des mathématiques auprès d'une diversité de publics. Pour chacun de ces ateliers, aucune connaissance avancée des mathématiques n'est requise.
+Je suis impliquée dans la vulgarisation des mathématiques auprès d'une diversité de publics. Pour chacun de ces ateliers, aucune connaissance avancée des mathématiques n'est requise.
 
 ## Pour tous
 Je suis **chroniqueuse de mathématiques** à l'**émission de radio [_L'oeuf ou la poule_](http://www.loeufoulapoule.org)**. Avec Stéphanie Schanck (et autrefois avec [Élise Vandomme](http://people.fjfi.cvut.cz/vandoeli/)), nous présentons chaque mois des segments radio de 7 minutes sur un sujet d'actualités ou un problème mathématique. Le tout a lieu dans une émission concoctée par des scientifiques passionné.es! Vous pouvez entendre [certaines chroniques](http://loeufoulapoule.org/category/chroniques/maths/) et [toutes les émissions](http://www.choq.ca/emissions-details/loeuf-ou-la-poule/) en ligne.
@@ -11,7 +11,7 @@ Lors des dernières éditions du 24 heures de sciences, j'ai présenté avec [Pa
 
 ## Vous êtes enseignante ou enseignant? **Invitez-moi en classe!**
 
-**Au niveau collégial**, je propose par le biais de [l'Institut des Sciences mathématiques](http://ism.uqam.ca/accueil/outreach/#1492) une conférence sur _Comment les mathématiques peuvent vous aider à trouver l'âme soeur_! La [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) se prête aussi très bien à un public de niveau collégial.
+**Au niveau collégial**, je propose par le biais de [l'Institut des Sciences mathématiques](http://ism.uqam.ca/accueil/outreach/#1492) une conférence sur _Comment les mathématiques peuvent vous aider à trouver l'âme soeur_! La [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) se prête aussi très bien à un public de niveau collégial. Relativement à la ville, j'aime en particulier parler de la circulation, surtout du [paradoxe de Braess](Braesss-paradox.pdf).
 
 
 **Au niveau secondaire**, je donne régulièrement la [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) à des groupes d'écoles secondaires en visite au centre-ville.
