@@ -1,9 +1,15 @@
+---
+title: Vulgarisation
+lang: fr
+ref: vulgarisation
+---
+
 <img style="float: right;" src="image_nadia_radio.png" title="Dans le cadre d'un enregistrement de L'oeuf ou la poule, lors du Congrès de l'ACFAS, en 2016.">
 
 Je suis impliquée dans la vulgarisation des mathématiques auprès d'une diversité de publics. Pour chacun de ces ateliers, aucune connaissance avancée des mathématiques n'est requise.
 
 ## Pour tous
-Je suis **chroniqueuse de mathématiques** à l'**émission de radio [_L'oeuf ou la poule_](http://www.loeufoulapoule.org)**. Avec Stéphanie Schanck (et autrefois avec [Élise Vandomme](http://people.fjfi.cvut.cz/vandoeli/)), nous présentons chaque mois des segments radio de 7 minutes sur un sujet d'actualités ou un problème mathématique. Le tout a lieu dans une émission concoctée par des scientifiques passionné.es! Vous pouvez entendre [certaines chroniques](http://loeufoulapoule.org/category/chroniques/maths/) et [toutes les émissions](http://www.choq.ca/emissions-details/loeuf-ou-la-poule/) en ligne.
+Je suis **chroniqueuse de mathématiques** à l'**émission de radio [_L'oeuf ou la poule_](http://www.loeufoulapoule.org)**. Avec Stéphanie Schanck (et autrefois avec [Élise Vandomme](http://lacim.uqam.ca/~elise.vandomme/index.html)), nous présentons chaque mois des segments radio de 7 minutes sur un sujet d'actualités ou un problème mathématique. Le tout a lieu dans une émission concoctée par des scientifiques passionné.es! Vous pouvez entendre [certaines chroniques](http://loeufoulapoule.org/category/chroniques/maths/) et [toutes les émissions](http://www.choq.ca/emissions-details/loeuf-ou-la-poule/) en ligne.
 
 Avec Stéphanie Schanck, on a aussi mis sur pied les **[balades Maths en ville](http://coeurdessciences.uqam.ca/component/eventlist/details/765-maths-en-ville.html)**, présentées à un public adulte ou adolescent depuis plus de trois ans. Il s'agit d'une promenade au centre-ville où nous invitons chaque personne à regarder la ville avec des lunettes mathématiques. Chaque été, nous sommes plusieurs guides à présenter cette activité. Pour en savoir plus sur la balade Maths en ville, vous pouvez consulter les reportages faits par [Le Devoir](https://www.ledevoir.com/vivre/560780/la-balade-maths-en-ville-devoile-montreal-sous-un-angle-mathematique), [La Presse +](http://plus.lapresse.ca/screens/8cf33e5b-e559-4865-9fe2-55ddac82f84e__7C___0.html) et [Ici Première](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=410900).
 

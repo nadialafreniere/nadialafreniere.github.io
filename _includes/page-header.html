@@ -1,8 +1,9 @@
+{% if page.lang == "fr" %}
 <section class="page-header">
   <nav class="navbar navbar-expand-xl navbar-dark bg-dark" >
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="index" style="color: white">Accueil <span class="sr-only"></span></a>
+      <a class="nav-item nav-link active" href="index" style="color: white">Accueil<span class="sr-only"></span></a>
       &nbsp&nbsp
       <a class="nav-item nav-link" href="recherche" style="color: white">Recherche</a>
       &nbsp&nbsp
@@ -11,10 +12,34 @@
       <a class="nav-item nav-link" href="vulgarisation" style="color: white">Vulgarisation</a>
       &nbsp&nbsp
       <a class="nav-item nav-link" href="sage" style="color: white">SageMath</a>
+      &nbsp&nbsp
+      <a class="nav-item nav-link" href="home.html" style="color: white">English</a>
+    </div>
+  </div>
+</nav>
+{% else %}
+  <section class="page-header">
+  <nav class="navbar navbar-expand-xl navbar-dark bg-dark" >
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="home" style="color: white">Home <span class="sr-only"></span></a>
+      &nbsp&nbsp
+      <a class="nav-item nav-link" href="research" style="color: white">Research</a>
+      &nbsp&nbsp
+      <a class="nav-item nav-link" href="teaching" style="color: white">Teaching</a>
+      &nbsp&nbsp
+      <a class="nav-item nav-link" href="outreach" style="color: white">Outreach</a>
+      &nbsp&nbsp
+      <a class="nav-item nav-link" href="sage_en" style="color: white">SageMath</a>
+      &nbsp&nbsp
+      <a class="nav-item nav-link" href="index" style="color: white">Français</a>
     </div>
   </div>
 </nav>
 <br>
+{% endif %}
+
+
 
   <h1 class="project-name">{{ site.title }}</h1>
   <nav class="navbar navbar-expand-lg navbar-light" style="color: white;">

@@ -1,3 +1,22 @@
 theme: jekyll-theme-cayman
 title: Nadia Lafrenière
-description: Ma page personnelle
+description: 
+  fr: Ma page personnelle
+  en: My home page
+t:
+    index:
+        en: index.md
+        fr: accueil.html
+    enseignement:
+        en: teaching
+        fr: enseignement
+    recherche:
+        en: research
+        fr: teaching
+    vulgarisation:
+        en: outreach
+        fr: vulgarisation
+    sage:
+        en: sage
+        fr: sage
+languages: ["en", "fr"]

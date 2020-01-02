@@ -1,3 +1,9 @@
+---
+title: Recherche
+lang: fr
+ref: recherche
+---
+
 Mon domaine de recherche est la combinatoire algébrique. Plus spécifiquement, j'étudie les propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires qui correspondent à des mélanges de cartes. C'est ce que j'explique dans les médias ci-dessous :
 
 - Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec :
@@ -7,9 +13,10 @@ Mon domaine de recherche est la combinatoire algébrique. Plus spécifiquement, 
 
 [//]: #(C'est aussi ce que j'ai présenté au concours _Ma thèse en 180 secondes_, (Vidéo à venir.))
 
-Ma thèse de doctorat, soumise en juin 2019, est en cours d'évaluation et sera déposée sur cette page une fois qu'elle aura été acceptée.
+Ma thèse de doctorat, soutenue en novembre 2019, portait sur deux familles de mélanges qu'on appelle les opérateurs de mélange symétrisés et s'intéressait particulièrement à leurs valeurs propres. Elle a été réalisée sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
+- [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, thèse de doctorat, Université du Québec à Montréal, 2019.](these.pdf)
 
-Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et plus spécifiquement sur les palindromes. Il a été réalisé à l'Université du Québec à Montréal sous la co-supervision de [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et de [Xavier Provençal](http://lama.univ-savoie.fr/pagesmembres/provencal/). 
+Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et plus spécifiquement sur les palindromes. Il a été réalisé à l'Université du Québec à Montréal sous la co-supervision de [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et de [Xavier Provençal](https://www.lama.univ-smb.fr/pagesmembres/provencal/). 
 - [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
 
 ### Articles parus
@@ -29,5 +36,5 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - _Compter les palindromes dans les arbres_, Séminaire de combinatoire du LaCIM, Université du Québec à Montréal, 23 octobre 2015.
 - _Palindromic complexity of trees_, Developments in Language Theory 2015, Liverpool, 30 juillet 2015.
 - _Diverses approches pour les marches aléatoires sur les permutations_, Séminaire de logique, informatique et mathématiques discrètes du LAMA, Université de Savoie-Mont-Blanc, 23 avril 2015.
-- Extending the Brlek-Reutenauer conjecture, American Mathematical Society, Sectional Meeting, Halifax, 18 octobre 2014.
-- On _f_-palindromes and their applications, Analysis of algorithms 2014, Paris, 16 juin 2014.
+- _Extending the Brlek-Reutenauer conjecture_, American Mathematical Society, Sectional Meeting, Halifax, 18 octobre 2014.
+- _On f-palindromes and their applications_, Analysis of algorithms 2014, Paris, 16 juin 2014.

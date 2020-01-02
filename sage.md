@@ -1,3 +1,9 @@
+---
+title: SageMath
+lang: fr
+ref: sage
+---
+
 ## Des mathématiques assistées par le logiciel [SageMath](https://www.sagemath.org)
 
 Dans le cadre de ma recherche, mais aussi pour des cours et des projets de vulgarisation, j'utilise beaucoup le logiciel libre SageMath. C'est un logiciel libre (open source et gratuit) développé par une communauté de mathématicien-ne-s très dynamique!
