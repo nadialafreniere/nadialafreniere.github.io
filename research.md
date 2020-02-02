@@ -4,17 +4,17 @@ lang: en
 ref: recherche
 ---
 
-My research area is algebraic combinatorics. More specifically, I study spectral properties (eigenvalues, eigenvectors) of random walks corresponding to card shuffling. This is what I explain in the following excerpts from national media (in French):
+My research area is algebraic combinatorics. More specifically, I study spectral properties (eigenvalues, eigenvectors) of random walks corresponding to card shuffling. I explain this in the following excerpts from national media (in French):
 
 - In a video for the show _Électrons Libres_, on Télé-Québec :
 [![Video for the show _Électrons libres_, on Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](http://zonevideo.telequebec.tv/media/36666/des-mathematiques-a-la-base-de-l-ordre-et-du-desordre/electrons-libres)
 
 - [For the radio show _Les Années lumière_, on Radio-Canada, radio one](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
 
-My Ph.D. thesis, defended on November 2019, was about two families of shuffles, called the symmetrized shuffling operators. The focus was on the eigenvalues. This thesis was realized under the advisory of [Franco Saliola](http://lacim.uqam.ca/~saliola/).
+My Ph.D. thesis, defended in November 2019, was about two families of shuffles, called the symmetrized shuffling operators. The focus was the eigenvalues. My advisor was [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 - [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, Ph.D. thesis, Université du Québec à Montréal, 2019. (In French).](these.pdf)
 
-My master's thesis was about Combinatorics on words, and more specifically on palindromes. It was realized under the joint advisory of [Srecko Brlek](http://lacim.uqam.ca/~brlek/) and [Xavier Provençal](https://www.lama.univ-smb.fr/pagesmembres/provencal/). 
+My master's thesis was in combinatorics on words, and more specifically about palindromes. My advisors were [Srecko Brlek](http://lacim.uqam.ca/~brlek/) and [Xavier Provençal](https://www.lama.univ-smb.fr/pagesmembres/provencal/). 
 - [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, M.Sc. thesis, Université du Québec à Montréal, 2016. (In French).](memoire.pdf)
 
 ### Published papers
