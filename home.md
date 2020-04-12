@@ -10,6 +10,8 @@ I earned my **Ph.D. in Combinatorial Mathematics** from Université du Québec �
 
 To learn more about my  **Ph.D. and master's theses** and my research, click on the [research tab](research). To read more about my **activities to help the general public discover mathematics**, click on the [outreach tab](outreach).
 
+Mary Versa Clemens-Sewall, a math major at Dartmouth, wrote [this biography of me](https://math.dartmouth.edu/~awmcontest/2020winners/Mary_Versa_Clemens-Sewall.pdf) for the Association for Women in Mathematics' contest, and received a honor mention for it. Congratulations!
+
 ## Contact:
 
 [first_name].[last_name]@dartmouth.edu
