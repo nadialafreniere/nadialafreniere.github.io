@@ -24,6 +24,9 @@ My master's thesis was in combinatorics on words, and more specifically about pa
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Research talks
+- _Derangements: Solving Problems by Counting (Certain Types Of) Permutations_, University of Connecticut Undergraduate Research Seminar, June 12, 2020. [Slides](talks/Derangements.pdf)
+- _Eigenvalues of symmetrized shuffling operators_, University of Vermont Combinaorics Seminar, Burlington, February 10, 2020.
+- _Do you know how to shuffle cards?_, Postdoc Research Day, Dartmouth College, Hanover (NH), January 16, 2020.
 - _Eigenvalues of symmetrized shuffling operators_, Formal Power Series and Algebraic Combinatorics (FPSAC), Ljublijana, July 1st, 2019. [Slides.](http://fpsac2019.fmf.uni-lj.si/resources/Slides/147slides.pdf)
 - _Random walks on the faces of a hyperplane arrangement_, Graduate Students Combinatorics Conference 2019, Philadelphia, April 6th, 2019.
 - _Eigenvalues of symmetrized shuffling operators_, Dartmouth College’s Combinatorics Seminar, Hanover (NH), April 2nd, 2019.
