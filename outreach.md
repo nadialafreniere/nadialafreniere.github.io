@@ -3,7 +3,7 @@
 I'm involved in popularizing mathematics among diverse audiences. For each activity that I lead, no advanced knowledge of mathematics is required.
 
 ## For everyone
-I am a **mathematics guest-host** in the **radio show [_L'oeuf ou la poule_](http://www.loeufoulapoule.org)** (in French). With Stéphanie Schanck (and formerly with [Élise Vandomme](http://lacim.uqam.ca/~elise.vandomme/index_en.html)), I present every month 7 minutes about mathematical news, a puzzle or a research problem. And this takes part in a show with other passionate scientists! You can listen to [some chronicles](http://loeufoulapoule.org/category/chroniques/maths/) or [all the shows](http://www.choq.ca/emissions-details/loeuf-ou-la-poule/) online.
+I have been a **mathematics guest-host** in the **radio show [_L'oeuf ou la poule_](http://www.loeufoulapoule.org)** (in French). With Stéphanie Schanck (and previously with [Élise Vandomme](http://lacim.uqam.ca/~elise.vandomme/index_en.html)), I present every month 7 minutes about mathematical news, a puzzle or a research problem. And this takes part in a show with other passionate scientists! You can listen to [some chronicles](http://loeufoulapoule.org/category/chroniques/maths/) or [all the shows](http://www.choq.ca/emissions-details/loeuf-ou-la-poule/) online.
 
 Stéphanie Schanck and I also designed and ran the **[Maths in the city walking tour](http://coeurdessciences.uqam.ca/component/eventlist/details/765-maths-en-ville.html) (in French)**. For the last four years, we have used this as an opportunity to present downtown Montreal the way mathematicians see it. This is for adults or teenagers. I also designed a similar activity in Chicago and Trois-Rivières.
 
