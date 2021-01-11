@@ -6,7 +6,7 @@ ref: enseignement
 
 Au cours de l'année 2020-2021, j'enseignerai les cours suivants à l'université Dartmouth College :
  * [Calcul différentiel (MATH 3)](https://math.dartmouth.edu/~m3f20), à l'automne
- * Combinatoire (cycles supérieurs, MATH 118), à l'hiver
+ * [Combinatoire, Analyse des algorithmes (cycles supérieurs, MATH 118)](https://canvas.dartmouth.edu/courses/44288), à l'hiver
  * Théorie des graphes (MATH 38), au printemps
 
 Durant l'année 2019-2020, j'ai enseigné les cours suivants à l'université Dartmouth College :
