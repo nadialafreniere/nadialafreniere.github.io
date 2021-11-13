@@ -7,9 +7,11 @@ ref: recherche
 My research area is algebraic combinatorics. More specifically, I study spectral properties (eigenvalues, eigenvectors) of random walks corresponding to card shuffling. I explain this in the following excerpts from national media (in French):
 
 - In a video for the show _Électrons Libres_, on Télé-Québec :
-[![Video for the show _Électrons libres_, on Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](http://zonevideo.telequebec.tv/media/36666/des-mathematiques-a-la-base-de-l-ordre-et-du-desordre/electrons-libres)
+[![Video for the show _Électrons libres_, on Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
 
 - [For the radio show _Les Années lumière_, on Radio-Canada, radio one](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
+
+- [For the mathematics magazine _Accromath_](https://accromath.uqam.ca/)
 
 My Ph.D. thesis, defended in November 2019, was about two families of shuffles, called the symmetrized shuffling operators. The focus was the eigenvalues. My advisor was [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 - [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, Ph.D. thesis, Université du Québec à Montréal, 2019. (In French).](these.pdf)

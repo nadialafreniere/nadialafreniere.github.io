@@ -7,9 +7,11 @@ ref: recherche
 Mon domaine de recherche est la combinatoire algébrique. Plus spécifiquement, j'étudie les propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires qui correspondent à des mélanges de cartes. C'est ce que j'explique dans les médias ci-dessous :
 
 - Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec :
-[![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](http://zonevideo.telequebec.tv/media/36666/des-mathematiques-a-la-base-de-l-ordre-et-du-desordre/electrons-libres)
+[![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
 
 - [Dans un segment radio pour l'émission _Les Années lumière_ de Radio-Canada](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
+
+ - [Dans un article pour la magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
 
 [//]: #(C'est aussi ce que j'ai présenté au concours _Ma thèse en 180 secondes_, (Vidéo à venir.))
 
