@@ -28,8 +28,12 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Exposés de recherche
-- _Derangements: Solving Problems by Counting (Certain Types Of) Permutations,_ University of Connecticut Undergraduate Research Seminar, June 12, 2020.
-- _Eigenvalues of symmetrized shuffling operators_, University of Vermont Combinaorics Seminar, Burlington, February 10, 2020.
+- _The spectrum of the random-to-below Markov chain_, donné plusieurs fois: University of Waterloo Combinatorics Seminar (en ligne), 22 juillet 2021;  SIAM Conference on Applied Algebraic Geometry (en ligne), 16 août 2021; UMass Discrete Math seminar, Amherst (MA), 22 octobre 2021.
+- _Properties of Random Walks through standard Young Tableaux (and through other objects)_, École d'été en combinatoire algébrique (en ligne), 23 juin 2021.
+- _Do you know how to shuffle cards? A combinatorial study of the convergence towards a well-mixed deck of cards_, Connecting Women in Mathematics Across Canada (virtual), 1er juin 2021.
+- _Ordre et désordre: Comment y arriver rapidement_, Congrès virtuel de l'Association mathématique du Québec colloquium, 11 mars 2021.
+- _Derangements: Solving Problems by Counting (Certain Types Of) Permutations,_ University of Connecticut Undergraduate Research Seminar (en ligne), June 12, 2020.
+- _Eigenvalues of symmetrized shuffling operators_, University of Vermont Combinatorics Seminar, Burlington, February 10, 2020.
 - _Do you know how to shuffle cards?_, Postdoc Research Day, Dartmouth College, Hanover (NH), January 16, 2020.
 - _Eigenvalues of symmetrized shuffling operators_, Formal Power Series and Algebraic Combinatorics (FPSAC), Ljublijana, 1er juillet 2019. [Support visuel.](http://fpsac2019.fmf.uni-lj.si/resources/Slides/147slides.pdf)
 - _Random walks on the faces of a hyperplane arrangement_, Graduate Students Combinatorics Conference 2019, Philadelphie, 6-7 avril 2019.
