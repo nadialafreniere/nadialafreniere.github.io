@@ -6,7 +6,7 @@ ref: enseignement
 
 This 2021-2022 academic year, I am teaching the following courses at Dartmouth College:
  * [Algebraic Combinatorics (MATH 68)](https://math.dartmouth.edu/~m68f21), in the Fall
- * Multivariate Calculus (MATH 8) in the Winter
+ * [Multivariate Calculus (MATH 8)](https://math.dartmouth.edu/~m8w22) in the Winter
  * Graph Theory (MATH 38) in the Spring
 
 In the past years, I taught following courses at Dartmouth College:

@@ -6,7 +6,7 @@ ref: enseignement
 
 En cette année 2021-2022, j'enseigne les cours suivants à l'université Dartmouth College :
  * [Combinatoire algébrique (MATH 68)](https://math.dartmouth.edu/~m68f21), à l'automne
- * Calcul différentiel (MATH 8), à l'hiver
+ * [Calcul différentiel (MATH 8)](https://math.dartmouth.edu/~m8w22), à l'hiver
  * Théorie des graphes (MATH 38), au printemps
 
 Dans le passé, j'ai enseigné les cours suivants à l'université Dartmouth College :
