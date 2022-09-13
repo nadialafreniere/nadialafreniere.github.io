@@ -4,6 +4,9 @@ lang: en
 ref: enseignement
 ---
 
+
+## Courses for which I was the instructor
+
 This 2022-2023 academic year, I am teaching the following courses at Dartmouth College:
  * [Calculus (MATH 3)](https://math.dartmouth.edu/~m3f22), in the Fall
  * Topics in Combinatorics (graduate, MATH 108), in the Winter
