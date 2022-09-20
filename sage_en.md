@@ -21,7 +21,7 @@ For the solutions to these worksheets, email me.
 
 Franco Saliola has [good introductory worksheets to SageMath](http://lacim.uqam.ca/~saliola/sage/tutorials/). For more challenges, I suggest you try the challenges from the [Euler Project](https://projecteuler.net/).
 
-### For colors with SageMath
+### Four colors with SageMath
 A nice picture realized with the use of SageMath, picturing the [Four Color Theorem](https://en.wikipedia.org/wiki/Four_color_theorem). Here's a challenge: Find the lake that is not the same color as the oceans.
 ![The Four Color Theorem on a Wolrd Map](4couleurs.png)
 
