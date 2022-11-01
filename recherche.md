@@ -27,8 +27,14 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - [Srecko Brlek, Nadia Lafrenière, Xavier Provençal. _Palindromic Complexity of Trees_. DLT 2015, pp. 155-166.](https://arxiv.org/abs/1505.02695)
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
+### Submitted papers
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409)
+- [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
+
+
 ### Exposés de recherche
-- _The spectrum of the random-to-below Markov chain_, donné plusieurs fois: University of Waterloo Combinatorics Seminar (en ligne), 22 juillet 2021;  SIAM Conference on Applied Algebraic Geometry (en ligne), 16 août 2021; UMass Discrete Math seminar, Amherst (MA), 22 octobre 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, 18 novembre 2021.
+- _Homomesy on permutations_, American Mathematical Society, Sectional Meeting, Amherst (MA), 2 octobre 2022; Séminaire de combinatoire et de théorie des graphes de l'Université Michigan State (en ligne), 25 octobre 2022.
+- _The spectrum of the random-to-below Markov chain_, donné plusieurs fois: University of Waterloo Combinatorics Seminar (en ligne), 22 juillet 2021;  SIAM Conference on Applied Algebraic Geometry (en ligne), 16 août 2021; UMass Discrete Math seminar, Amherst (MA), 22 octobre 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, 18 novembre 2021; Séminaire gradué de combinatoire de l'Université de Californie à San Diego (en ligne), 25 janvier 2022; Séminaire de combinatoire de l'Université Brandeis (en ligne), 25 janvier 2022;  American Mathematical Society, Sectional Meeting, Amherst (MA), 2 octobre 2022.
 - _Properties of Random Walks through standard Young Tableaux (and through other objects)_, École d'été en combinatoire algébrique (en ligne), 23 juin 2021.
 - _Do you know how to shuffle cards? A combinatorial study of the convergence towards a well-mixed deck of cards_, Connecting Women in Mathematics Across Canada (virtual), 1er juin 2021.
 - _Ordre et désordre: Comment y arriver rapidement_, Congrès virtuel de l'Association mathématique du Québec, 11 mars 2021.
