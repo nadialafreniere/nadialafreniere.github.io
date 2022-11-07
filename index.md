@@ -4,7 +4,9 @@ lang: fr
 ref: index
 ---
 
-<img style="float: right;" src="photo_Nadia.jpg" title="En présentant la topologie du Cloud Gate à des élèves, à Chicago.">
+<!--  <img style="float: right;" src="photo_Nadia.jpg" title="En présentant la topologie du Cloud Gate à des élèves, à Chicago."> -->
+
+<img style="float: right;" src="photo_Nadia_2021.jpg" width="300">
 
 Je suis une chercheuse postdoctorale en combinatoire à l'université [**Dartmouth College**](https://math.dartmouth.edu), située dans la ville de Hanover, au New Hampshire. J'ai obtenu mon **doctorat en mathématiques combinatoires** à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 
