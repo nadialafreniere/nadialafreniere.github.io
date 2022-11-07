@@ -19,14 +19,21 @@ My Ph.D. thesis, defended in November 2019, was about two families of shuffles, 
 My master's thesis was in combinatorics on words, and more specifically about palindromes. My advisors were [Srecko Brlek](http://lacim.uqam.ca/~brlek/) and [Xavier Provençal](https://www.lama.univ-smb.fr/pagesmembres/provencal/). 
 - [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, M.Sc. thesis, Université du Québec à Montréal, 2016. (In French).](memoire.pdf)
 
+Recently, I also got interested into dynamical algebraic combinatorics, the study of combinatorial actions and their orbits.
+
 ### Published papers
 - [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 pp.](https://arxiv.org/abs/1811.07196)
 - [Damien Jamet, Nadia Lafrenière, Xavier Provençal. _Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_. DGCI 2016, pp. 45-56.](JLP-DGCI2016.pdf)
 - [Srecko Brlek, Nadia Lafrenière, Xavier Provençal. _Palindromic Complexity of Trees_. DLT 2015, pp. 155-166.](https://arxiv.org/abs/1505.02695)
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
+### Submitted papers
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409)
+- [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
+
 ### Research talks
-- _The spectrum of the random-to-below Markov chain_, given several times: University of Waterloo Combinatorics Seminar (virtual), July 22, 2021;  SIAM Conference on Applied Algebraic Geometry (virtual), August 16, 2021; UMass Discrete Math seminar, Amherst (MA), October 22, 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, Philadelphia, November 18, 2021.
+- _Homomesy on permutations_, AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022; Michigan State University's Combinatorics and Graph Theory Seminar (virtual), October 25, 2022.
+- _The spectrum of the random-to-below Markov chain_, given several times: University of Waterloo Combinatorics Seminar (virtual), July 22, 2021;  SIAM Conference on Applied Algebraic Geometry (virtual), August 16, 2021; UMass Discrete Math seminar, Amherst (MA), October 22, 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, Philadelphia, November 18, 2021; University of California San Diego's Graduate Combinatorics Seminar (virtual), January 25, 2022; Brandeis Combinatorics Seminar (virtual), January 25, 2022; AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022.
 - _Properties of Random Walks through standard Young Tableaux (and through other objects)_, Summer School in Algebraic Combinatorics (virtual), June 23, 2021.
 - _Do you know how to shuffle cards? A combinatorial study of the convergence towards a well-mixed deck of cards_, Connecting Women in Mathematics Across Canada (virtual), June 1, 2021.
 - _Ordre et désordre: Comment y arriver rapidement_, Association mathématique du Québec colloquium (virtual), March 11, 2021.
