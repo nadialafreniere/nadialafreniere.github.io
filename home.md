@@ -4,7 +4,9 @@ lang: en
 ref: index
 ---
 
-<img style="float: right;" src="photo_Nadia.jpg" title="While presenting the topology hidden in the Cloud Gate to middle school students, in Chicago.">
+<!-- <img style="float: right;" src="photo_Nadia.jpg" title="While presenting the topology hidden in the Cloud Gate to middle school students, in Chicago."> -->
+
+ <img style="float: right;" src="photo_Nadia_2021.jpg" width="300">
 
 I am a postdoc in combinatorics at [**Dartmouth College**](https://math.dartmouth.edu). I earned my **Ph.D. in Combinatorial Mathematics** from Université du Québec à Montréal under the advisory of [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 
