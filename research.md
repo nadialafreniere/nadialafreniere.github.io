@@ -6,12 +6,10 @@ ref: recherche
 
 My research area is algebraic combinatorics. More specifically, I study spectral properties (eigenvalues, eigenvectors) of random walks corresponding to card shuffling. I explain this in the following excerpts from national media (in French):
 
-- In a video for the show _Électrons Libres_, on Télé-Québec :
+- In a video for the show _Électrons Libres_, on Télé-Québec (the video might not be available anymore)
 [![Video for the show _Électrons libres_, on Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
 
-- [For the radio show _Les Années lumière_, on Radio-Canada, radio one](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
-
-- [For the mathematics magazine _Accromath_](https://accromath.uqam.ca/)
+- [For the mathematics magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
 
 My Ph.D. thesis, defended in November 2019, was about two families of shuffles, called the symmetrized shuffling operators. The focus was the eigenvalues. My advisor was [Franco Saliola](http://lacim.uqam.ca/~saliola/).
 - [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, Ph.D. thesis, Université du Québec à Montréal, 2019. (In French).](these.pdf)
@@ -28,7 +26,7 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Submitted papers
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409) [Extended abstract](Permutations_FPSAC2023.pdf)
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409), as well as an [extended abstract submitted to FPSAC 2023.](Permutations_FPSAC2023.pdf)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
 ### Research talks

@@ -6,10 +6,8 @@ ref: recherche
 
 Mon domaine de recherche est la combinatoire algébrique. Plus spécifiquement, j'étudie les propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires qui correspondent à des mélanges de cartes. C'est ce que j'explique dans les médias ci-dessous :
 
-- Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec :
+- Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec (la vidéo ne semble plus être en ligne)
 [![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
-
-- [Dans un segment radio pour l'émission _Les Années lumière_ de Radio-Canada](http://ici.radio-canada.ca/emissions/les_annees_lumiere/2015-2016/chronique.asp?idChronique=416132)
 
  - [Dans un article pour la magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
 
@@ -28,7 +26,7 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Articles soumis
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409) [Résumé](Permutations_FPSAC2023.pdf)
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409), ainsi qu'un [résumé soumis pour la conférence FPSAC 2023.](Permutations_FPSAC2023.pdf)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
 
