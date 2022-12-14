@@ -26,12 +26,13 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Submitted papers
+- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_.](https://arxiv.org/abs/2212.06274) 
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409), as well as an [extended abstract submitted to FPSAC 2023.](Permutations_FPSAC2023.pdf)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
 ### Research talks
 - _Homomesy on permutations_, AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022; Michigan State University's Combinatorics and Graph Theory Seminar (virtual), October 25, 2022.
-- _The spectrum of the random-to-below Markov chain_, given several times: University of Waterloo Combinatorics Seminar (virtual), July 22, 2021;  SIAM Conference on Applied Algebraic Geometry (virtual), August 16, 2021; UMass Discrete Math seminar, Amherst (MA), October 22, 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, Philadelphia, November 18, 2021; University of California San Diego's Graduate Combinatorics Seminar (virtual), January 25, 2022; Brandeis Combinatorics Seminar (virtual), January 25, 2022; AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022.
+- _The spectrum of the random-to-below Markov chain_, given several times: University of Waterloo Combinatorics Seminar (virtual), July 22, 2021;  SIAM Conference on Applied Algebraic Geometry (virtual), August 16, 2021; UMass Discrete Math seminar, Amherst (MA), October 22, 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, Philadelphia, November 18, 2021; University of California San Diego's Graduate Combinatorics Seminar (virtual), January 25, 2022; Brandeis Combinatorics Seminar (virtual), January 25, 2022; AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022; Stony Brook University Probability and Combinatorics Seminar, Stony Brook, December 5, 2022.
 - _Properties of Random Walks through standard Young Tableaux (and through other objects)_, Summer School in Algebraic Combinatorics (virtual), June 23, 2021.
 - _Do you know how to shuffle cards? A combinatorial study of the convergence towards a well-mixed deck of cards_, Connecting Women in Mathematics Across Canada (virtual), June 1, 2021.
 - _Ordre et désordre: Comment y arriver rapidement_, Association mathématique du Québec colloquium (virtual), March 11, 2021.
