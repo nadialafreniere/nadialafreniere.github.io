@@ -25,7 +25,7 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 - [Srecko Brlek, Nadia Lafrenière, Xavier Provençal. _Palindromic Complexity of Trees_. DLT 2015, pp. 155-166.](https://arxiv.org/abs/1505.02695)
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
-### Submitted papers
+### Preprints 
 - [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_.](https://arxiv.org/abs/2212.06274) 
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409), as well as an [extended abstract submitted to FPSAC 2023.](Permutations_FPSAC2023.pdf)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
