@@ -26,9 +26,9 @@ I taught [General Mathematics (MAT0339)](mat0339.html) at UQAM in the Fall of 20
 ## Mentoring
 
 At Dartmouth, I have mentored students doing reading courses and independent research:
-* Will Dowling, who is working on homomesy on permutations. Will is funded by the program for Undergraduate research assistantship at Dartmouth. (Fall 2022)
-* Peter Nielsen and Jay Chen are doing a reading course to learn how to use computational tools for mathematical research. (Fall 2022)
-* Roxy Holden and I are working on applying Markov Chains theory to cryptography problems such as Moving Target Defense. (2022)
-* Roxy Holden, for a reading course on Markov chain and Mixing times (Spring 2021)
-* Peter Morawitz, who [contributed](https://trac.sagemath.org/ticket/31451) a fast algorithm to compute all increasing sequences of maximum length to SageMath. Peter was funded by the program for Undergraduate research assistantship at Dartmouth. (Winter 2021)
+* Will Dowling is working on homomesy on permutations. Will is funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
+* Roxy Holden and I are working on applying Markov Chains theory to cryptography problems such as Moving Target Defense. (2022-2023)
+* Peter Nielsen and Jay Chen did a reading course to learn how to use computational tools for mathematical research. (Fall 2022)
+* Roxy Holden did a reading course on Markov chain and Mixing times (Spring 2021)
+* Peter Morawitz [contributed](https://trac.sagemath.org/ticket/31451) a fast algorithm to compute all increasing sequences of maximum length to SageMath. Peter was funded by the program for Undergraduate research assistantship at Dartmouth. (Winter 2021)
 
