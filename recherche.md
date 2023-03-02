@@ -27,7 +27,7 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 
 ### Articles en prépublication
 - [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_.](https://arxiv.org/abs/2212.06274)
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_.](https://arxiv.org/abs/2206.13409).
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_](https://arxiv.org/abs/2206.13409).
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
 
