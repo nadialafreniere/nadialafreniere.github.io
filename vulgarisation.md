@@ -23,3 +23,7 @@ Lors de quelques éditions du 24 heures de sciences, j'ai présenté avec [Pauli
 **Au niveau secondaire**, j'ai réalisé et animé pendant des années la [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) à des groupes d'écoles secondaires en visite au centre-ville.
 
 **Au niveau primaire**, j'ai présenté avec le Coeur des Sciences la pièce de théâtre [_L'été, c'est mathématique!_](http://coeurdessciences.uqam.ca/component/eventlist/details/710-l-ete-c-est-mathematique.html) En solo, je peux aussi présenter un atelier sur la théorie des graphes. Enfin, l'activité _Maths et magie_ se prête bien à un public de tous les niveaux primaires.
+
+<src="nadia_skday2023.png" title="Showing magic tricks inspired by math to middle school and high school girls, at Dartmouth College in 2023.">
+<src="Nadia_Chicago.jpg" title="Talking about the topology ot the Cloud Gate in Chicago to a group of high schoolers, while adapting the Math in the city walking tour, in 2018.">
+
