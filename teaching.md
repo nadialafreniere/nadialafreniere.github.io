@@ -10,7 +10,7 @@ ref: enseignement
 This 2022-2023 academic year, I am teaching the following courses at Dartmouth College:
  * [Calculus (MATH 3)](https://math.dartmouth.edu/~m3f22), in the Fall
  * [Geometric Combinatorics (graduate, MATH 108)](https://math.dartmouth.edu/~m108w23), in the Winter
- * Probability (MATH 20), in the Spring
+ * [Probability (MATH 20)](https://math.dartmouth.edu/~m20s23), in the Spring
 
 In the past years, I taught following courses at Dartmouth College:
  * [Calculus (MATH 3)](https://math.dartmouth.edu/~m3f20), in the Fall 2020

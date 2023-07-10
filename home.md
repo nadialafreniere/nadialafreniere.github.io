@@ -8,7 +8,7 @@ ref: index
 
  <img style="float: right;" src="photo_Nadia_2021.jpg" width="300">
 
-I am a postdoc in combinatorics at [**Dartmouth College**](https://math.dartmouth.edu). I earned my **Ph.D. in Combinatorial Mathematics** from Université du Québec à Montréal under the advisory of [Franco Saliola](http://lacim.uqam.ca/~saliola/).
+I am a postdoc in combinatorics at [**Dartmouth College**](https://math.dartmouth.edu). I earned my **Ph.D. in Combinatorial Mathematics** from Université du Québec à Montréal under the advisory of [Franco Saliola](http://lacim.uqam.ca/~saliola/). Starting in the Fall, I will be an assistant professor with a limited-term appointment at [Concordia University](https://www.concordia.ca/artsci/math-stats.html).
 
 To learn more about my  **Ph.D. and master's theses** and my research, click on the [research tab](research). To read more about my **activities to help the general public discover mathematics**, click on the [outreach tab](outreach).
 

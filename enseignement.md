@@ -9,7 +9,7 @@ ref: enseignement
 En cette année 2022-2023, j'enseigne les cours suivants à l'université Dartmouth College :
  * [Calcul différentiel (MATH 3)](https://math.dartmouth.edu/~m3f22), à l'automne
  * [Géométrie en combinatoire (cycles supérieurs, MATH 108)](https://math.dartmouth.edu/~m108w23), à l'hiver
- * Probablités (MATH 20), au printemps
+ * [Probablités (MATH 20)](https://math.dartmouth.edu/~m20s23), au printemps
 
 Dans le passé, j'ai enseigné les cours suivants à l'université Dartmouth College :
  * [Calcul différentiel (MATH 3)](https://math.dartmouth.edu/~m3f20), à l'automne 2020

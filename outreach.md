@@ -15,4 +15,6 @@ For the a couple editions of the [24 hours of science](https://science24heures.c
 
 **For elementary and middle school students**, I designed a mathematical play called [_L'été, c'est mathématique!_](http://coeurdessciences.uqam.ca/component/eventlist/details/710-l-ete-c-est-mathematique.html) with Émile Nadeau. Independently, I also have workshops about mathematical aspects of magic and graph theory that are a good fit with any group of kids.
 
+<img src="nadia_skday2023.png" title="Showing magic tricks inspired by math to middle school and high school girls, at Dartmouth College in 2023.">
+<img src="Nadia_Chicago.jpg" title="Talking about the topology of the Cloud Gate in Chicago to a group of high schoolers, while adapting the Math in the city walking tour, in 2018.">
 
