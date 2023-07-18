@@ -25,5 +25,5 @@ J'ai enseigné le cours de [Mathématiques générales (MAT0339)](mat0339.html) 
 * Roxy Holden et moi avons travaillé sur l'application de la théorie des chaînes de Markov à des problèmes de cryptographie comme celui de la cible de défense mobile alors qu'elle travaillait pour le Johns Hopkins University Applied Physics Laboratory. (2022-2023)
 * Peter Nielsen et Jay Chen ont fait une lecture dirigée sur l'utilisation d'outils computationnels dans la recherche mathématique. (Automne 2022)
 * J'ai supervisé Roxy Holden le temps d'une lecture dirigée sur les chaînes de Markov et le temps de mélange. (Printemps 2021)
-* Peter Morawitz a [contribué](https://trac.sagemath.org/ticket/31451) à SageMath un algorithme rapide pour énumerer les séquences croissantes maximales dans une permutation. Peter a été financé par le programme d'assistanat de recherche au premier cycle à Dartmouth. (Hiver 2021)
+* Peter Morawitz a [contribué](https://github.com/sagemath/sage/issues/31451) à SageMath un algorithme rapide pour énumerer les séquences croissantes maximales dans une permutation. Peter a été financé par le programme d'assistanat de recherche au premier cycle à Dartmouth. (Hiver 2021)
 

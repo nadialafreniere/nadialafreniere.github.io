@@ -29,7 +29,7 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 ### Preprints 
 
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._](https://arxiv.org/abs/2307.08520).
-- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](httos://arxiv.org/abs/2307.02711).
+- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](https://arxiv.org/abs/2307.02711).
 - [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_.](https://arxiv.org/abs/2212.06274) 
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
