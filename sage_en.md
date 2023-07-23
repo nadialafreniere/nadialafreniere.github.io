@@ -6,10 +6,13 @@ For my research, as well as for teaching or outreach projects, I use SageMath. T
 The main options to use SageMath are an online server ([CoCalc](https://cocalc.com)) or the local installation on a computer ([instructions and download](http://www.sagemath.org/download.html)). I suggest the latter.
 
 Once SageMath is installed on your computer, you can download the introductory worksheets posted below. To open Sagemath in its notebook, the procedure is the following:
- * Depending on your operating system and the version of SageMath you installed, this can either be done with a button in your menu, or from the command line, by typing ‘PATH_TO_THE_SAGE_FOLDER/./sage –notebook=jupyter’ from the folder in which the worksheet is located. Then, SageMath should open in your browser.
+ * Depending on your operating system and the version of SageMath you installed, this can either be done with a button in your menu, or from the command line, by typing ‘PATH_TO_THE_SAGE_FOLDER/sage –notebook=jupyter’ from the folder in which the worksheet is located. Then, SageMath should open in your browser.
  * In your browser, you should find the SageMath (Jupyter) notebook interface. Simply open the worksheet by clicking on it.
 
-### Some introductory worksheets
+### Combinatorics with SageMath at ICTP-EAUMP School on Enumerative Combinatorics
+ * Day 1: Introduction to SageMath + worksheets on using SageMath as a calculator and Python basics (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture1.zip)
+
+### Some (old) introductory worksheets - Worked with old versions of SageMath
  * Worksheet 1 - Intro [in English](sage_ws/Short_intro.ipynb) or [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb)
  * Worksheet 2 - [Python Basics](sage_ws/2-Python_basics_no_solutions.ipynb)
  * Worksheet 3 - [Linear Algebra](sage_ws/3-Linear_algebra.ipynb)
