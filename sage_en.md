@@ -14,8 +14,7 @@ Once SageMath is installed on your computer, you can download the introductory w
  * Day 2: Combinatorial structures in SageMath + worksheets on some number sequences (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture2.zip)
  * Day 3: Generating functions with SageMath + worksheets (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture3.zip)
  * Day 4: Graph Theory with SageMath + worksheets - as a [Zip file](Sage_course_Arusha/Lecture4.zip)
- * Day 5: Databases and the bijectionist's tool kit  - no exercises, slides only. As a [Zip file](sage_course_Arusha/Lecture5.zip)
-).
+ * Day 5: Databases and the bijectionist's tool kit  - no exercises, slides only. As a [Zip file](Sage_course_Arusha/Lecture5.zip)
 
 ### Some (old) introductory worksheets - Worked with old versions of SageMath
  * Worksheet 1 - Intro [in English](sage_ws/Short_intro.ipynb) or [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb)
