@@ -6,7 +6,7 @@ For my research, as well as for teaching or outreach projects, I use SageMath. T
 The main options to use SageMath are an online server ([CoCalc](https://cocalc.com)) or the local installation on a computer ([instructions and download](http://www.sagemath.org/download.html)). I suggest the latter.
 
 Once SageMath is installed on your computer, you can download the introductory worksheets posted below. To open Sagemath in its notebook, the procedure is the following:
- * Depending on your operating system and the version of SageMath you installed, this can either be done with a button in your menu, or from the command line, by typing ‘PATH_TO_THE_SAGE_FOLDER/sage –notebook=jupyter’ from the folder in which the worksheet is located. Then, SageMath should open in your browser.
+ * Depending on your operating system and the version of SageMath you installed, this can either be done with a button in your menu, or from the command line, by typing ‘PATH_TO_THE_SAGE_FOLDER/sage --notebook=jupyter’ from the folder in which the worksheet is located. Then, SageMath should open in your browser.
  * In your browser, you should find the SageMath (Jupyter) notebook interface. Simply open the worksheet by clicking on it.
 
 ### Combinatorics with SageMath at ICTP-EAUMP School on Enumerative Combinatorics
@@ -14,7 +14,7 @@ Once SageMath is installed on your computer, you can download the introductory w
  * Day 2: Combinatorial structures in SageMath + worksheets on some number sequences (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture2.zip)
  * Day 3: Generating functions with SageMath + worksheets (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture3.zip)
  * Day 4: Graph Theory with SageMath + worksheets - as a [Zip file](Sage_course_Arusha/Lecture4.zip)
- * Day 5: Databases and the bijectionist's tool kit  - no worksheet. As a [Zip file](sage_course_Arusha/Lecture5.zip
+ * Day 5: Databases and the bijectionist's tool kit  - no exercises, slides only. As a [Zip file](sage_course_Arusha/Lecture5.zip)
 ).
 
 ### Some (old) introductory worksheets - Worked with old versions of SageMath
