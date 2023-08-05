@@ -16,7 +16,17 @@ Une fois SageMath installé sur votre ordinateur, vous pouvez télécharger les 
  * Démarrer le carnet de notes SageMath (par exemple, avec la commande 'CHEMIN_VERS_LE_DOSSIER_SAGE/./sage --notebook=jupyter' à partir du dossier dans lequel se trouve la feuille de travail). SageMath s'ouvrira dans votre navigateur.
  * Dans le navigateur, sélectionner la feuille de travail.
 
+### Combinatorics with SageMath at ICTP-EAUMP School on Enumerative Combinatorics
+J'ai donné un mini-cours d'une semaine sur SageMath pour la combinatoire à l'école d'été ICTP-EAUMP (une école CIMPA ayant lieu en Afrique de l'Est à chaque année). En 2023, l'école portait sur la combinatoire énumérative et a eu lieu à Arusha, en Tanzanie. Les diapos des cours, feuilles d'exercices et solutions sont disponibles ici (en anglais).
+ * Cours 1: Introduction à SageMath + feuilles d'exercices sur l'utilisation de SageMath comme calculatrice et les bases de Python (avec solutions) - [fichier Zip](Sage_course_Arusha/Lecture1.zip)
+ * Cours 2: Structures combinatoires avec SageMath + exercices sur des suites de nombres (avec solutions) - [fichier Zip](Sage_course_Arusha/Lecture2.zip)
+ * Cours 3: Fonctions génératrices avec SageMath + exercices (avec solutions) - [fichier Zip](Sage_course_Arusha/Lecture3.zip)
+ * Cours 4: Théorie des graphes avec SageMath + exercices (pas de solutions disponibles) - [fichier Zip](Sage_course_Arusha/Lecture4.zip)
+ * Cours 5: Bases de données ouvertes et coffre à outils de la bijectionniste - pas d'exercices. [Fichier Zip](Sage_course_Arusha/Lecture5.zip)
+ * L'ensemble du cours en un [fichier Zip](Sage_course_Arusha/AllLectures.zip).
+
 ### Quelques feuilles d'introduction
+Ces feuilles ont été préparées pour différents événements passés, et fonctionnent avec des versions antérieures de SageMath. Elles pourraient ne pas fonctionner avec la version actuelle.
  * Feuille 1 - Intro [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb), [in English](sage_ws/Short_intro.ipynb)
  * Feuille 2 - [Bases en Python](sage_ws/Atelier_2_sans_les_solutions.ipynb)
  * Feuille 3 - [Algèbre linéaire](sage_ws/Atelier_3_sans_les_solutions.ipynb)
@@ -24,7 +34,7 @@ Une fois SageMath installé sur votre ordinateur, vous pouvez télécharger les 
  * [Une introduction aux mélanges de cartes avec SageMath!](sage_ws/Melanges_de_cartes.ipynb)
 Pour les solutions de ces feuilles de travail, écrivez-moi!
 
-Franco Saliola a aussi [de bonnes feuilles d'introduction à SageMath](http://lacim.uqam.ca/~saliola/sage/tutorials/). Pour plus de défis, je vous conseille d'essayer certains des défis du [Projet Euler (seulement en anglais)](https://projecteuler.net/).
+Pour plus de défis, je vous conseille d'essayer certains des défis du [Projet Euler (seulement en anglais)](https://projecteuler.net/).
 
 ### SageTeX
 Un outil que je trouve très pratique sert à appeler SageMath à partir de LaTeX. Il s'appele SageTeX, et je rends disponibles mes [notes sur son utilisation](sage_ws/sagetex.pdf).

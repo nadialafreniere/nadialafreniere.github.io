@@ -10,11 +10,13 @@ Once SageMath is installed on your computer, you can download the introductory w
  * In your browser, you should find the SageMath (Jupyter) notebook interface. Simply open the worksheet by clicking on it.
 
 ### Combinatorics with SageMath at ICTP-EAUMP School on Enumerative Combinatorics
+I was a lecturer at the ICTP-EAUMP School on Enumerative Combinatorics in Arusha, Tanzania, a CIMPA school happening each year in East Africa (on rotating topics). My course was on using SageMath for combinatorics. You can download individual lectures (with exercises) or a Zip file containing all the material.
  * Day 1: Introduction to SageMath + worksheets on using SageMath as a calculator and Python basics (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture1.zip)
- * Day 2: Combinatorial structures in SageMath + worksheets on some number sequences (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture2.zip)
- * Day 3: Generating functions with SageMath + worksheets (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture3.zip)
- * Day 4: Graph Theory with SageMath + worksheets - as a [Zip file](Sage_course_Arusha/Lecture4.zip)
+ * Day 2: Combinatorial structures in SageMath + worksheet on some number sequences (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture2.zip)
+ * Day 3: Generating functions with SageMath + worksheet (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture3.zip)
+ * Day 4: Graph Theory with SageMath + worksheet (no solution) - as a [Zip file](Sage_course_Arusha/Lecture4.zip)
  * Day 5: Databases and the bijectionist's tool kit  - no exercises, slides only. As a [Zip file](Sage_course_Arusha/Lecture5.zip)
+ * The whole minicourse, as a [Zip file](Sage_course_Arusha/AllLectures.zip)
 
 ### Some (old) introductory worksheets - Worked with old versions of SageMath
  * Worksheet 1 - Intro [in English](sage_ws/Short_intro.ipynb) or [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb)
@@ -22,11 +24,10 @@ Once SageMath is installed on your computer, you can download the introductory w
  * Worksheet 3 - [Linear Algebra](sage_ws/3-Linear_algebra.ipynb)
  * Worksheet 4 - [Guessing generating functions with Sage](sage_ws/Guessing_with_Sage.ipynb)
 
-
 More worksheets can be found on the French page, but they are in French.
 For the solutions to these worksheets, email me.
 
-Franco Saliola has [good introductory worksheets to SageMath](http://lacim.uqam.ca/~saliola/sage/tutorials/). For more challenges, I suggest you try the challenges from the [Euler Project](https://projecteuler.net/).
+For more challenges, I suggest you try the challenges from the [Euler Project](https://projecteuler.net/).
 
 ### Four colors with SageMath
 A nice picture realized with the use of SageMath, picturing the [Four Color Theorem](https://en.wikipedia.org/wiki/Four_color_theorem). Here's a challenge: Find the lake that is not the same color as the oceans.

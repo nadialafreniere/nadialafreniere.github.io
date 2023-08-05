@@ -18,9 +18,4 @@ Mary Versa Clemens-Sewall, une récente diplômée de Dartmouth College, a écri
 
 ## Pour me contacter :
 
-[prenom].[nom_de_famille]@dartmouth.edu
-
-Dartmouth College <br />
-Kemeny Hall  <br />
-Room 318
-
+[prenom].[nom_de_famille]@concordia.ca

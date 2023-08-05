@@ -16,9 +16,4 @@ Mary Versa Clemens-Sewall, a recent alumna of Dartmouth, wrote [this biography o
 
 ## Contact:
 
-[first_name].[last_name]@dartmouth.edu
-
-Dartmouth College <br />
-Kemeny Hall  <br />
-Room 318
-
+[first_name].[last_name]@concordia.ca
