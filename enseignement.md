@@ -5,6 +5,12 @@ ref: enseignement
 ---
 
 ## Cours enseignés
+En 2023-2024, j'enseigne les cours suivants à l'Université Concordia:
+ * Calcul avancé (différentiel, multivarié) (MATH 264) à l'automne et à l'hver
+ * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233) à l'automne
+ * Équations différentielles ordinaires et applications (ENGR 213) à l'automne
+ * Algèbre linéaire avancé (MATH 252) à l'hiver
+Les détails du cours sont disponibles sur Moodle pour les étudiantes et étudiants inscrits
 
 Dans le passé, j'ai enseigné les cours suivants à l'université Dartmouth College :
  * Calcul différentiel (MATH 3), à l'[automne 2020](https://math.dartmouth.edu/~m3f20) et à l'[automne 2022](https://canvas.dartmouth.edu/courses/54901)

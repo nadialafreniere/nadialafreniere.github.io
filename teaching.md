@@ -7,6 +7,13 @@ ref: enseignement
 
 ## Courses for which I was the instructor
 
+In 2023-2024, I'm teaching the following courses at Concordia University:
+ * Advanced Calculus (differential, multivariate) (MATH 264) in the Fall and in the Winter terms
+ * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall
+ * Applied Ordinary Differential Equations (ENGR 213) in the Fall
+ * Advanced Linear Algebra (MATH 252) in the Winter
+Details about the courses are available on Moodle for enrolled students
+
 In the past years, I taught following courses at Dartmouth College:
  * Calculus (MATH 3), in [Fall 2020](https://math.dartmouth.edu/~m3f20) and [Fall 2022](https://canvas.dartmouth.edu/courses/54901)
  * Multivariate Calculus (MATH 8), [in Fall 2019](https://math.dartmouth.edu/~m8f19), [Winter 2020](https://math.dartmouth.edu/~m8w20), and [Winter 2022](https://canvas.dartmouth.edu/courses/50321/)

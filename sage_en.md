@@ -10,7 +10,7 @@ Once SageMath is installed on your computer, you can download the introductory w
  * In your browser, you should find the SageMath (Jupyter) notebook interface. Simply open the worksheet by clicking on it.
 
 ### Combinatorics with SageMath at ICTP-EAUMP School on Enumerative Combinatorics
-I was a lecturer at the ICTP-EAUMP School on Enumerative Combinatorics in Arusha, Tanzania, a CIMPA school happening each year in East Africa (on rotating topics). My course was on using SageMath for combinatorics. You can download individual lectures (with exercises) or a Zip file containing all the material.
+I was a lecturer at the [2023 ICTP-EAUMP School on Enumerative Combinatorics](https://indico.ictp.it/event/10188/) in Arusha, Tanzania, a school in partnership with CIMPA happening each year in East Africa (on rotating topics). My course was on using SageMath for combinatorics. You can download individual lectures (with exercises) or a Zip file containing all the material.
  * Day 1: Introduction to SageMath + worksheets on using SageMath as a calculator and Python basics (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture1.zip)
  * Day 2: Combinatorial structures in SageMath + worksheet on some number sequences (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture2.zip)
  * Day 3: Generating functions with SageMath + worksheet (including solutions) - as a [Zip file](Sage_course_Arusha/Lecture3.zip)
@@ -19,6 +19,7 @@ I was a lecturer at the ICTP-EAUMP School on Enumerative Combinatorics in Arusha
  * The whole minicourse, as a [Zip file](Sage_course_Arusha/AllLectures.zip)
 
 ### Some (old) introductory worksheets - Worked with old versions of SageMath
+These worksheets were prepared for various events and worked with previous versions of SageMath. They might not work with the current version.
  * Worksheet 1 - Intro [in English](sage_ws/Short_intro.ipynb) or [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb)
  * Worksheet 2 - [Python Basics](sage_ws/2-Python_basics_no_solutions.ipynb)
  * Worksheet 3 - [Linear Algebra](sage_ws/3-Linear_algebra.ipynb)

@@ -17,7 +17,7 @@ Une fois SageMath installé sur votre ordinateur, vous pouvez télécharger les 
  * Dans le navigateur, sélectionner la feuille de travail.
 
 ### Combinatorics with SageMath at ICTP-EAUMP School on Enumerative Combinatorics
-J'ai donné un mini-cours d'une semaine sur SageMath pour la combinatoire à l'école d'été ICTP-EAUMP (une école CIMPA ayant lieu en Afrique de l'Est à chaque année). En 2023, l'école portait sur la combinatoire énumérative et a eu lieu à Arusha, en Tanzanie. Les diapos des cours, feuilles d'exercices et solutions sont disponibles ici (en anglais).
+J'ai donné un mini-cours d'une semaine sur SageMath pour la combinatoire à [l'école d'été ICTP-EAUMP](https://indico.ictp.it/event/10188/) (une école organisée en partenariat avec CIMPA ayant lieu en Afrique de l'Est à chaque année). En 2023, l'école portait sur la combinatoire énumérative et a eu lieu à Arusha, en Tanzanie. Les diapos des cours, feuilles d'exercices et solutions sont disponibles ici (en anglais).
  * Cours 1: Introduction à SageMath + feuilles d'exercices sur l'utilisation de SageMath comme calculatrice et les bases de Python (avec solutions) - [fichier Zip](Sage_course_Arusha/Lecture1.zip)
  * Cours 2: Structures combinatoires avec SageMath + exercices sur des suites de nombres (avec solutions) - [fichier Zip](Sage_course_Arusha/Lecture2.zip)
  * Cours 3: Fonctions génératrices avec SageMath + exercices (avec solutions) - [fichier Zip](Sage_course_Arusha/Lecture3.zip)
