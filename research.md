@@ -20,16 +20,15 @@ My master's thesis was in combinatorics on words, and more specifically about pa
 Recently, I also got interested into dynamical algebraic combinatorics, the study of combinatorial actions and their orbits.
 
 ### Published papers
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409).
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Accepted for publication in Journal of Combinatorics.](https://arxiv.org/abs/2307.08520)
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409)
 - [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 pp.](https://arxiv.org/abs/1811.07196)
 - [Damien Jamet, Nadia Lafrenière, Xavier Provençal. _Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_. DGCI 2016, pp. 45-56.](JLP-DGCI2016.pdf)
 - [Srecko Brlek, Nadia Lafrenière, Xavier Provençal. _Palindromic Complexity of Trees_. DLT 2015, pp. 155-166.](https://arxiv.org/abs/1505.02695)
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Preprints 
-
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._](https://arxiv.org/abs/2307.08520).
-- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](https://arxiv.org/abs/2307.02711).
+- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](https://arxiv.org/abs/2307.02711)
 - [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_.](https://arxiv.org/abs/2212.06274) 
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
