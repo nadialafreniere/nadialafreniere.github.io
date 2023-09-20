@@ -12,6 +12,7 @@ In 2023-2024, I'm teaching the following courses at Concordia University:
  * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall
  * Applied Ordinary Differential Equations (ENGR 213) in the Fall
  * Advanced Linear Algebra (MATH 252) in the Winter
+
 Details about the courses are available on Moodle for enrolled students
 
 In the past years, I taught following courses at Dartmouth College:
