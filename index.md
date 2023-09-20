@@ -8,7 +8,7 @@ ref: index
 
 <img style="float: right;" src="photo_Nadia_2021.jpg" width="300">
 
-Je suis professeure adjointe à l'[**Université Concordia**](https://www.concordia.ca/artsci/math-stats.html), employée pour une durée déterminée. J'ai obtenu mon **doctorat en mathématiques combinatoires** à l'Université du Québec à Montréal sous la direction de [Franco Saliola](https://saliola.github.io/). Avant d'être à Concordia, j'ai été chercheuse postdoctorale en combinatoire à l'université [**Dartmouth College**](https://math.dartmouth.edu), au New Hampshire. 
+Je suis professeure adjointe à l'[**Université Concordia**](https://www.concordia.ca/artsci/math-stats.html), employée pour une durée déterminée. J'ai obtenu mon **doctorat en mathématiques combinatoires** à l'Université du Québec à Montréal sous la direction de [Franco Saliola](https://saliola.github.io/). Avant d'être à Concordia, j'ai été chercheuse postdoctorale en combinatoire à l'université [Dartmouth College](https://math.dartmouth.edu), au New Hampshire. 
 
 Je suis membre du comité éditorial de la revue **[Accromath](https://accromath.uqam.ca)**, qui s'adresse surtout aux étudiantes et étudiants ainsi qu'au corps professoral des cégeps et des écoles secondaires. J'ai aussi été **chroniqueuse de mathématiques** à l'émission de radio **[_L'oeuf ou la poule_](https://www.choq.ca/emissions-details/loeuf-ou-la-poule/)**.
 
