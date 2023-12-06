@@ -28,7 +28,7 @@ J'ai enseigné le cours de [Mathématiques générales (MAT0339)](mat0339.html) 
 ## Supervision d'étudiantes et d'étudiants
 
 À Dartmouth, j'ai supervisé plusieurs étudiantes et étudiants dans le cadre de projets de recherche ou de lectures dirigées:
-* Will Dowling travaille présentement sur le phénomène d'homomésie sur les permutations. Will est financé par le programme d'assistanat de recherche au premier cycle à Dartmouth. (2022-2023)
+* Will Dowling a travaillé sur le phénomène d'homomésie sur les permutations, ce qui a mené à [un article](https://arxiv.org/abs/2312.02383). Will a été financé par le programme d'assistanat de recherche au premier cycle à Dartmouth. (2022-2023)
 * Roxy Holden et moi avons travaillé sur l'application de la théorie des chaînes de Markov à des problèmes de cryptographie comme celui de la cible de défense mobile alors qu'elle travaillait pour le Johns Hopkins University Applied Physics Laboratory. (2022-2023)
 * Peter Nielsen et Jay Chen ont fait une lecture dirigée sur l'utilisation d'outils computationnels dans la recherche mathématique. (Automne 2022)
 * J'ai supervisé Roxy Holden le temps d'une lecture dirigée sur les chaînes de Markov et le temps de mélange. (Printemps 2021)

@@ -20,6 +20,8 @@ My master's thesis was in combinatorics on words, and more specifically about pa
 Recently, I also got interested into dynamical algebraic combinatorics, the study of combinatorial actions and their orbits.
 
 ### Published papers
+- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Accepted for publication in Algebraic Combinatorics.](https://arxiv.org/abs/2212.06274) 
+- [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._ Accepted for publication in Snapshots of Modern Mathematics from Oberwolfach.](Snapshot_cutoff.pdf)
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Accepted for publication in Journal of Combinatorics.](https://arxiv.org/abs/2307.08520)
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409)
 - [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 pp.](https://arxiv.org/abs/1811.07196)
@@ -28,9 +30,8 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Preprints 
+- [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383)
 - [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](https://arxiv.org/abs/2307.02711)
-- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_.](https://arxiv.org/abs/2212.06274) 
-- [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._](Snapshot_cutoff_first_submission_english.pdf)
 
 ### Research talks
 - _How many times should you shuffle a deck or cards?_, Graduate Online Combinatorics Colloquium (invited as an expert; virtual), April 19, 2023. [Notes](Lafreniere_GOCC.pdf)
