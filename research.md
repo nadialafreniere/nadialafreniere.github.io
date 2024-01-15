@@ -20,6 +20,8 @@ My master's thesis was in combinatorics on words, and more specifically about pa
 Recently, I also got interested into dynamical algebraic combinatorics, the study of combinatorial actions and their orbits.
 
 ### Published papers
+
+- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._ Accepted for publication in Discrete Mathematics and Theoretical Computer Science.](https://arxiv.org/abs/2307.02711)
 - [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Accepted for publication in Algebraic Combinatorics.](https://arxiv.org/abs/2212.06274) 
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._ Accepted for publication in Snapshots of Modern Mathematics from Oberwolfach.](Snapshot_cutoff.pdf)
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Accepted for publication in Journal of Combinatorics.](https://arxiv.org/abs/2307.08520)
@@ -31,7 +33,6 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 
 ### Preprints 
 - [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383)
-- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](https://arxiv.org/abs/2307.02711)
 
 ### Research talks
 - _How many times should you shuffle a deck or cards?_, Graduate Online Combinatorics Colloquium (invited as an expert; virtual), April 19, 2023. [Notes](Lafreniere_GOCC.pdf)

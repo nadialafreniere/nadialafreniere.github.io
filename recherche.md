@@ -20,6 +20,7 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
 
 ### Articles parus
+- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._ Accepté pour publication dans Discrete Mathematics and Theoretical Computer Science.](https://arxiv.org/abs/2307.02711)
 - [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Accepté pour publication dans Algebraic Combinatorics.](https://arxiv.org/abs/2212.06274)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._ Accepté pour publication dans Snapshots of Modern Mathematics from Oberwolfach.](Snapshot_cutoff.pdf)
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Accepté pour publication dans Journal of Combinatorics.](https://arxiv.org/abs/2307.08520)
@@ -31,7 +32,6 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 
 ### Articles en prépublication
 - [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383)
-- [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._](https://arxiv.org/abs/2307.02711)
 
 ### Exposés de recherche
 - _How many times should you shuffle a deck or cards?_, Colloque virtuel de combinatoire des cycles supérieurs (invitée à titre d'experte; exposé virtuel), 19 avril 2023. [Notes](Lafreniere_GOCC.pdf)
