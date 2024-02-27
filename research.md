@@ -32,9 +32,11 @@ Recently, I also got interested into dynamical algebraic combinatorics, the stud
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Preprints 
+- [Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 - [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383)
 
 ### Research talks
+- _Rowmotion on Interval-closed sets._ CAAC 2024. [Slides](Lafreniere_CAAC_ICS.pdf).
 - _How many times should you shuffle a deck or cards?_, Graduate Online Combinatorics Colloquium (invited as an expert; virtual), April 19, 2023. [Notes](Lafreniere_GOCC.pdf)
 - _Homomesy on permutations_, AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022; Michigan State University's Combinatorics and Graph Theory Seminar (virtual), October 25, 2022; Dartmouth College Combinatorics Seminar, Hanover (NH), November 15, 2022; Séminaire SAG+Statistiques, Université de Sherbrooke, Sherbrooke (Qc), March 8, 2023.
 - _The spectrum of the random-to-below Markov chain_, given several times: University of Waterloo Combinatorics Seminar (virtual), July 22, 2021;  SIAM Conference on Applied Algebraic Geometry (virtual), August 16, 2021; UMass Discrete Math seminar, Amherst (MA), October 22, 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, Philadelphia, November 18, 2021; University of California San Diego's Graduate Combinatorics Seminar (virtual), January 25, 2022; Brandeis Combinatorics Seminar (virtual), January 25, 2022; AMS Fall Eastern Sectional Meeting, Amherst (MA), October 2, 2022; Stony Brook University Probability and Combinatorics Seminar, Stony Brook (NY), December 5, 2022.

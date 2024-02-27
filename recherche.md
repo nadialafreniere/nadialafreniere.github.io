@@ -31,9 +31,11 @@ Mon mémoire de maîtrise portait quand à lui sur la combinatoire des mots, et 
 - [Srecko Brlek, Nadia Lafrenière. _Reconstructing Words from a σ-palindromic Language_. Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.](BL-sigma-pal.pdf)
 
 ### Articles en prépublication
+- [Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 - [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383)
 
 ### Exposés de recherche
+- _Rowmotion on Interval-closed sets_, CAAC 2024. [Support visuel](Lafreniere_CAAC_ICS.pdf).
 - _How many times should you shuffle a deck or cards?_, Colloque virtuel de combinatoire des cycles supérieurs (invitée à titre d'experte; exposé virtuel), 19 avril 2023. [Notes](Lafreniere_GOCC.pdf)
 - _Homomesy on permutations_, American Mathematical Society, Sectional Meeting, Amherst (MA), 2 octobre 2022; Séminaire de combinatoire et de théorie des graphes de l'Université Michigan State (en ligne), 25 octobre 2022; Séminaire de combinatoire de l'université Dartmouth College, Hanover (NH), 15 novembre 2022; Séminaire SAG+Statistiques, Université de Sherbrooke, Sherbrooke (Qc), 8 mars 2023.
 - _The spectrum of the random-to-below Markov chain_, donné plusieurs fois: University of Waterloo Combinatorics Seminar (en ligne), 22 juillet 2021;  SIAM Conference on Applied Algebraic Geometry (en ligne), 16 août 2021; UMass Discrete Math seminar, Amherst (MA), 22 octobre 2021; Philadelphia Area Combinatorics, Algebra and Geometry Seminar, 18 novembre 2021; Séminaire gradué de combinatoire de l'Université de Californie à San Diego (en ligne), 25 janvier 2022; Séminaire de combinatoire de l'Université Brandeis (en ligne), 25 janvier 2022;  American Mathematical Society, Sectional Meeting, Amherst (MA), 2 octobre 2022; Séminaire de probabilités et combinatoire de l'Université Stony Brook, Stony Brook (NY), December 5, 2022.
