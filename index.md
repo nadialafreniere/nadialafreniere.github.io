@@ -6,7 +6,7 @@ ref: index
 
 <!--  <img style="float: right;" src="photo_Nadia.jpg" title="En présentant la topologie du Cloud Gate à des élèves, à Chicago."> -->
 
-<img style="float: right;" src="photo_Nadia_2021.jpg" width="300">
+<img style="float: right;" src="photo_Nadia_2021_medium.png" width="300">
 
 Je suis professeure adjointe à l'[**Université Concordia**](https://www.concordia.ca/artsci/math-stats.html), employée pour une durée déterminée. J'ai obtenu mon **doctorat en mathématiques combinatoires** à l'Université du Québec à Montréal sous la direction de [Franco Saliola](https://saliola.github.io/). Avant d'être à Concordia, j'ai été chercheuse postdoctorale en combinatoire à l'université [Dartmouth College](https://math.dartmouth.edu), au New Hampshire. 
 

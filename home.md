@@ -6,7 +6,7 @@ ref: index
 
 <!-- <img style="float: right;" src="photo_Nadia.jpg" title="While presenting the topology hidden in the Cloud Gate to middle school students, in Chicago."> -->
 
- <img style="float: right;" src="photo_Nadia_2021.jpg" width="300">
+ <img style="float: right;" src="photo_Nadia_2021_medium.png" width="300">
 
 I am an assistant professor with a limited-term appointment at [**Concordia University**](https://www.concordia.ca/artsci/math-stats.html). I earned my **Ph.D. in Combinatorial Mathematics** from Université du Québec à Montréal under the advisory of [Franco Saliola](https://saliola.github.io/). Before Concordia, I was a John Wesley Young research instructor at [Dartmouth College](https://math.dartmouth.edu).
 
