@@ -18,18 +18,6 @@ I was a lecturer at the [2023 ICTP-EAUMP School on Enumerative Combinatorics](ht
  * Day 5: Databases and the bijectionist's tool kit  - no exercises, slides only. As a [Zip file](Sage_course_Arusha/Lecture5.zip)
  * The whole minicourse, as a [Zip file](Sage_course_Arusha/AllLectures.zip)
 
-### Some (old) introductory worksheets - Worked with old versions of SageMath
-These worksheets were prepared for various events and worked with previous versions of SageMath. They might not work with the current version.
- * Worksheet 1 - Intro [in English](sage_ws/Short_intro.ipynb) or [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb)
- * Worksheet 2 - [Python Basics](sage_ws/2-Python_basics_no_solutions.ipynb)
- * Worksheet 3 - [Linear Algebra](sage_ws/3-Linear_algebra.ipynb)
- * Worksheet 4 - [Guessing generating functions with Sage](sage_ws/Guessing_with_Sage.ipynb)
-
-More worksheets can be found on the French page, but they are in French.
-For the solutions to these worksheets, email me.
-
-For more challenges, I suggest you try the challenges from the [Euler Project](https://projecteuler.net/).
-
 ### Four colors with SageMath
 A nice picture realized with the use of SageMath, picturing the [Four Color Theorem](https://en.wikipedia.org/wiki/Four_color_theorem). Here's a challenge: Find the lake that is not the same color as the oceans.
 ![The Four Color Theorem on a Wolrd Map](4couleurs.png)

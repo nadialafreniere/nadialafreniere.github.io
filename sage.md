@@ -25,17 +25,6 @@ J'ai donné un mini-cours d'une semaine sur SageMath pour la combinatoire à [l'
  * Cours 5: Bases de données ouvertes et coffre à outils de la bijectionniste - pas d'exercices. [Fichier Zip](Sage_course_Arusha/Lecture5.zip)
  * L'ensemble du cours en un [fichier Zip](Sage_course_Arusha/AllLectures.zip).
 
-### Quelques feuilles d'introduction
-Ces feuilles ont été préparées pour différents événements passés, et fonctionnent avec des versions antérieures de SageMath. Elles pourraient ne pas fonctionner avec la version actuelle.
- * Feuille 1 - Intro [en français](sage_ws/Atelier_1_sans_les_solutions.ipynb), [in English](sage_ws/Short_intro.ipynb)
- * Feuille 2 - [Bases en Python](sage_ws/Atelier_2_sans_les_solutions.ipynb)
- * Feuille 3 - [Algèbre linéaire](sage_ws/Atelier_3_sans_les_solutions.ipynb)
- * Feuille 4 - [Théorie de la représentation](sage_ws/Atelier_4_sans_les_solutions.ipynb)
- * [Une introduction aux mélanges de cartes avec SageMath!](sage_ws/Melanges_de_cartes.ipynb)
-Pour les solutions de ces feuilles de travail, écrivez-moi!
-
-Pour plus de défis, je vous conseille d'essayer certains des défis du [Projet Euler (seulement en anglais)](https://projecteuler.net/).
-
 ### SageTeX
 Un outil que je trouve très pratique sert à appeler SageMath à partir de LaTeX. Il s'appele SageTeX, et je rends disponibles mes [notes sur son utilisation](sage_ws/sagetex.pdf).
 
