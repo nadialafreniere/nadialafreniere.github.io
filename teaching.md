@@ -31,7 +31,7 @@ I taught [General Mathematics (MAT0339)](mat0339.html) at UQAM in the Fall of 20
 ## Mentoring
 
 At Dartmouth, I mentored students doing reading courses and independent research:
-* Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383). Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
+* Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383), to appear in _Involve_. Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
 * Roxy Holden and I worked on applying Markov Chains theory to cryptography problems such as Moving Target Defense, while she was at the Johns Hopkins University Applied Physiscs Laboratory. (2022-2023)
 * Peter Nielsen and Jay Chen did a reading course to learn how to use computational tools for mathematical research. (Fall 2022)
 * Roxy Holden did a reading course on Markov chain and Mixing times (Spring 2021)

@@ -20,7 +20,7 @@ Lors de quelques éditions du 24 heures de sciences, j'ai présenté avec [Pauli
 
 ## Vous êtes enseignante ou enseignant? **Invitez-moi en classe!**
 
-**Au niveau collégial**, je propose par le biais de [l'Institut des Sciences mathématiques](http://ism.uqam.ca/accueil/outreach/#1492) des conférences sur _[Comment les mathématiques peuvent vous aider à trouver l'âme soeur](maths-de-l-amour.pdf)_, sur le [paradoxe de Braess](Braesss-paradox-fr.pdf) et sur _Tricher à l'aide des mathématiques_. La [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) se prête aussi très bien à un public de niveau collégial.
+**Au niveau collégial**, je propose par le biais de [l'Institut des Sciences mathématiques](http://ism.uqam.ca/accueil/outreach/#1492) des conférences sur _[Comment les mathématiques peuvent vous aider à trouver l'âme soeur](maths-de-l-amour.pdf)_, sur le [paradoxe de Braess](Braesss-paradox-fr.pdf) et sur _[Tricher à l'aide des mathématiques](https://www.youtube.com/watch?v=B5qUY1nU8GY)_. La [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) se prête aussi très bien à un public de niveau collégial.
 
 
 **Au niveau secondaire**, j'ai réalisé et animé pendant des années la [balade _Maths en ville_](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) à des groupes d'écoles secondaires en visite au centre-ville.

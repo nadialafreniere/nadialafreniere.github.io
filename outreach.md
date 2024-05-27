@@ -11,7 +11,7 @@ For the a couple editions of the [24 hours of science](https://science24heures.c
 
 ## Are you a teacher? **Invite me in your classroom!**
 
-**For high school and cégep students**, I give, with the support of the [Institut des Sciences mathématiques](http://ism.uqam.ca/outreach/#1492) a conference on _[How mathematics can help you finding the perfect partner](maths-de-l-amour.pdf)_, one on a mathematical perspective on traffic, especially [Braess's paradox](Braesss-paradox.pdf), and one on _Cheating thanks to math_. The [_Maths en ville_ walking tour](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) is a perfect activity for high schoolers living in Montreal.
+**For high school and cégep students**, I give, with the support of the [Institut des Sciences mathématiques](http://ism.uqam.ca/outreach/#1492) a conference on _[How mathematics can help you finding the perfect partner](maths-de-l-amour.pdf)_, one on a mathematical perspective on traffic, especially [Braess's paradox](Braesss-paradox.pdf), and one on _[Cheating thanks to math](https://www.youtube.com/watch?v=B5qUY1nU8GY)_. The [_Maths en ville_ walking tour](http://coeurdessciences.uqam.ca/balades-scientifiques-groupes-scolaires.html) is a perfect activity for high schoolers living in Montreal.
 
 **For elementary and middle school students**, I designed a mathematical play called [_L'été, c'est mathématique!_](http://coeurdessciences.uqam.ca/component/eventlist/details/710-l-ete-c-est-mathematique.html) with Émile Nadeau. Independently, I also have workshops about mathematical aspects of magic and graph theory that are a good fit with any group of kids.
 
