@@ -7,14 +7,14 @@ ref: recherche
 Mon domaine de recherche est la combinatoire algébrique. Plus spécifiquement, j'étudie les propriétés des actions combinatoires, notamment sur les permutations. Pour ce faire, j'utilise aussi des outils provenant de la théorie de la représentation et des probabilités.
 
 ## Mélanges de cartes
-J'étudie notamment les mélanges de cartes, et je souhaite particulièrement savoir combien de fois on doit répéter un mélange donné pour qu'il soit efficace. Pour ce faire, je m'inétresse aux propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires modélisées par des chaînes de Markov. J'explique le problème pour le grand public dans les médias ci-dessous :
+J'étudie notamment les mélanges de cartes, et je souhaite particulièrement savoir combien de fois on doit répéter un mélange donné pour qu'il soit efficace. Pour ce faire, je m'intéresse aux propriétés spectrales (valeurs propres, vecteurs propres) de certaines marches aléatoires modélisées par des chaînes de Markov. J'explique le problème pour le grand public dans les médias ci-dessous :
 
-- [Au micro de l'émission _Les Années Lumière_ de Radio-Canada](AnneesLumiere.mp3)
+- <a href="AnneesLumiere.mp3" target="_blank">Au micro de l'émission _Les Années Lumière_ de Radio-Canada</a>
 
 - Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec (la vidéo ne semble plus être en ligne)
 [![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
 
- - [Dans un article pour la magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
+ - [Dans un article pour le magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
 
 Ma thèse de doctorat, soutenue en novembre 2019, portait sur deux familles de mélanges qu'on appelle les opérateurs de mélange symétrisés et s'intéressait particulièrement à leurs valeurs propres. Elle a été réalisée sous la direction de [Franco Saliola](https://saliola.github.io/).
 - [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, thèse de doctorat, Université du Québec à Montréal, 2019.](these.pdf)
@@ -49,5 +49,5 @@ Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécif
 - _How many times should you shuffle a deck or cards?_, Colloque virtuel de combinatoire des cycles supérieurs (invitée à titre d'experte; exposé virtuel), 19 avril 2023. [Notes](Lafreniere_GOCC.pdf)
 - _Homomesy on permutations_, donné plusieurs fois lors de séminaires, et aux Joint Mathematics Meetings, 6 janvier 2023.
 - _The spectrum of the random-to-below Markov chain_, donné plusieurs fois lors de séminaires, et à la réunion sectionnelle de l'American Mathematical Society à Amherst (MA), 2 octobre 2022.
-- _Eigenvalues of symmetrized shuffling operators_, Formal Power Series and Algebraic Combinatorics (FPSAC), Ljublijana, 1er juillet 2019. [Support visuel.](http://fpsac2019.fmf.uni-lj.si/resources/Slides/147slides.pdf)
+- _Eigenvalues of symmetrized shuffling operators_, Formal Power Series and Algebraic Combinatorics (FPSAC), Ljubljana, 1er juillet 2019. [Support visuel.](http://fpsac2019.fmf.uni-lj.si/resources/Slides/147slides.pdf)
 - _Palindromic complexity of trees_, Developments in Language Theory 2015, Liverpool, 30 juillet 2015.
