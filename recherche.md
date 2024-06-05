@@ -25,7 +25,7 @@ Ma thèse de doctorat, soutenue en novembre 2019, portait sur deux familles de m
 - [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 p.](https://arxiv.org/abs/1811.07196)
 
 ## Combinatoire algébrique dynamique
-Je suis particulièrement intéressée par les propriétés des actions sur les structures combinatoires, notamment les permutations et les ensembles partiellement ordonnés (posets). Pour une action donnée, on décompose un ensemble en orbites, puis on étudie les propriétés énumératives de ces orbites, notamment l'homomésie et le criblage cyclique.
+Je suis particulièrement intéressée par les propriétés des actions sur les structures combinatoires, notamment les permutations et les ensembles partiellement ordonnés (posets). Pour une action donnée, on décompose un ensemble en orbites, puis on étudie les propriétés énumératives de ces orbites, notamment l'homomésie et le criblage cyclique. Cette recherche est largement basée sur l'exploration informatique, ce qui m'a poussée à contribuer à [FindStat)](https://www.findstat.org).
 
 ### Articles reliés
 - [Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._ Soumis pour révision.](https://arxiv.org/abs/2402.16251)
@@ -35,7 +35,7 @@ Je suis particulièrement intéressée par les propriétés des actions sur les 
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409)
 
 ## Combinatoire des mots et géométrie discrète
-Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécifiquement sur les palindromes (des mots comme kayak, radar ou Hannah), avec [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et [Xavier Provençal](http://xprov.org/). J'ai également étudié des algorithmes de génération digitale en lien avec la combinatoire des mots. Ma thèse de maîtrise portait sur différents aspects des palindromes dans les mots finis:
+Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécifiquement sur les palindromes (des mots comme kayak, radar ou Hannah), avec [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et [Xavier Provençal](http://xprov.org/). J'ai également étudié des algorithmes de génération digitale en lien avec la combinatoire des mots. Mon mémoire de maîtrise portait sur différents aspects des palindromes dans les mots finis:
 - [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
 
 ### Articles reliés

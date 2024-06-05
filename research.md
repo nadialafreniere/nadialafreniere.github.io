@@ -32,7 +32,7 @@ Recently, I also got interested into dynamical algebraic combinatorics, which is
 My Ph.D. thesis, defended in November 2019, was about two families of shuffles, called the symmetrized shuffling operators. The focus was the eigenvalues. My advisor was [Franco Saliola](https://saliola.github.io/).
 - [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, Ph.D. thesis, Université du Québec à Montréal, 2019. (In French).](these.pdf)
 
-My master's thesis was in combinatorics on words, and more specifically about palindromes. My advisors were [Srecko Brlek](http://lacim.uqam.ca/~brlek/) and [Xavier Provençal](http://xprov.org/). 
+My master's thesis was on combinatorics on words, and more specifically about palindromes. My advisors were [Srecko Brlek](http://lacim.uqam.ca/~brlek/) and [Xavier Provençal](http://xprov.org/). 
 - [Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, M.Sc. thesis, Université du Québec à Montréal, 2016. (In French).](memoire.pdf)
 
 
