@@ -11,16 +11,13 @@ J'étudie notamment les mélanges de cartes, et je souhaite particulièrement sa
 
 - <a href="AnneesLumiere.mp3" target="_blank">Au micro de l'émission _Les Années Lumière_ de Radio-Canada</a>
 
-- Dans une vidéo pour l'émission _Électrons Libres_, de Télé-Québec (la vidéo ne semble plus être en ligne)
-[![Vidéo pour l'émission _Électrons libres_, de Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
-
  - [Dans un article pour le magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
 
 Ma thèse de doctorat, soutenue en novembre 2019, portait sur deux familles de mélanges qu'on appelle les opérateurs de mélange symétrisés et s'intéressait particulièrement à leurs valeurs propres. Elle a été réalisée sous la direction de [Franco Saliola](https://saliola.github.io/).
 - [Nadia Lafrenière. _Valeurs propres des opérateurs de mélange symétrisés_, thèse de doctorat, Université du Québec à Montréal, 2019.](these.pdf)
 
 ### Articles reliés
-- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.](https://alco.centre-mersenne.org/articles/10.5802/alco.346/)
+- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.](https://alco.centre-mersenne.org/articles/10.5802/alco.346/) Un article de conférence a aussi été écrit et [accepté à FPSAC 2024.](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/16.html)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._ Snapshots of Modern Mathematics from Oberwolfach, no. 5, 2023.](https://publications.mfo.de/handle/mfo/4094)
 - [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 p.](https://arxiv.org/abs/1811.07196)
 
@@ -31,8 +28,14 @@ Je suis particulièrement intéressée par les propriétés des actions sur les 
 - [Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._ Soumis pour révision.](https://arxiv.org/abs/2402.16251)
 - [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_. Accepté pour publication dans _Involve_.](https://arxiv.org/abs/2312.02383)
 - [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._ Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.](https://dmtcs.episciences.org/13136/pdf)
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Accepté pour publication dans Journal of Combinatorics.](https://arxiv.org/abs/2307.08520)
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409)
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Journal of Combinatorics, vol. 15, no. 4, 2024.](https://arxiv.org/abs/2307.08520)
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409).
+
+## Combinatoire des tableaux et fonctions quasisymétriques
+Je fais partie d'un groupe qui cherche à comprendre les modules agissant sur les fonctions quasisymétriques grâce à la combinatoire des tableaux. On déduit des propriétés liées à la théorie de la représentation grâce à des méthodes tout à fait combinatoires.
+
+### Article relié
+ - [Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. _The skew immaculate Hecke poset and 0-Hecke modules_. Soumis pour révision.](https://arxiv.org/abs/2409.00709)
 
 ## Combinatoire des mots et géométrie discrète
 Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécifiquement sur les palindromes (des mots comme kayak, radar ou Hannah), avec [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et [Xavier Provençal](http://xprov.org/). J'ai également étudié des algorithmes de génération digitale en lien avec la combinatoire des mots. Mon mémoire de maîtrise portait sur différents aspects des palindromes dans les mots finis:

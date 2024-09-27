@@ -5,11 +5,16 @@ ref: enseignement
 ---
 
 ## Cours enseignés
-En 2023-2024, j'enseigne les cours suivants à l'Université Concordia:
- * Calcul avancé (différentiel, multivarié) (MATH 264) à l'automne et à l'hver
- * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233) à l'automne
- * Équations différentielles ordinaires et applications (ENGR 213) à l'automne
+En 2024-2025, j'enseigne les cours suivants à l'Université Concordia:
+ * Analyse à l'été 2024
+ * Calcul multivarié différentiel (MAST 218, MATH 264) et intégral (MAST 219, MATH 265), tous les deux à l'automne et à l'hiver 
+ * Équations différentielles ordinaires (MAST 330) à l'automne
  * Algèbre linéaire avancé (MATH 252) à l'hiver
+J'ai aussi enseigné dans le passé les cours suivants à l'Université Concordia:
+ * Calcul avancé (différentiel, multivarié) (MATH 264) à l'automne 2023 et à l'hiver 2024
+ * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233) à l'automne 2023
+ * Équations différentielles ordinaires et applications (ENGR 213) à l'automne 2023
+ * Algèbre linéaire avancé (MATH 252) à l'hiver 2024
 
 Les détails des cours sont disponibles sur Moodle pour les étudiantes et étudiants inscrits
 
@@ -27,7 +32,9 @@ J'ai enseigné le cours de [Mathématiques générales (MAT0339)](mat0339.html) 
 
 ## Supervision d'étudiantes et d'étudiants
 
-À Dartmouth, j'ai supervisé plusieurs étudiantes et étudiants dans le cadre de projets de recherche ou de lectures dirigées:
+
+À Dartmouth et à Concordia, j'ai supervisé plusieurs étudiantes et étudiants dans le cadre de projets de recherche ou de lectures dirigées:
+* Étienne Dyer a travaillé sur le problème de l'ange de Conway dans le cadre d'un stage cosupervisé par Assaf Shani et moi-même. Étienne était financé par le programme de bourses de recherche de premier cycle de l'Université Concordia. (Été 2024)
 * Will Dowling a travaillé sur le phénomène d'homomésie sur les permutations, ce qui a mené à [un article](https://arxiv.org/abs/2312.02383), à paraître dans _Involve_. Will a été financé par le programme d'assistanat de recherche au premier cycle à Dartmouth. (2022-2023)
 * Roxy Holden et moi avons travaillé sur l'application de la théorie des chaînes de Markov à des problèmes de cryptographie comme celui de la cible de défense mobile alors qu'elle travaillait pour le Johns Hopkins University Applied Physics Laboratory. (2022-2023)
 * Peter Nielsen et Jay Chen ont fait une lecture dirigée sur l'utilisation d'outils computationnels dans la recherche mathématique. (Automne 2022)

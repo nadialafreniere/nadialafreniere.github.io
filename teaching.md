@@ -7,11 +7,16 @@ ref: enseignement
 
 ## Courses for which I was the instructor
 
-In 2023-2024, I'm teaching the following courses at Concordia University:
- * Advanced Calculus (differential, multivariate) (MATH 264) in the Fall and in the Winter terms
- * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall
- * Applied Ordinary Differential Equations (ENGR 213) in the Fall
- * Advanced Linear Algebra (MATH 252) in the Winter
+In 2024-2025, I'm teaching the following courses at Concordia University:
+ * Analysis in the Summer
+ * Multivariate Calculus: Differential (MAST 218, MATH 264) and integral (MAST 219, MATH 265), both in the Fall and in the Winter
+ * Équations différentielles ordinaires (MAST 330) in the Fall
+ * Algèbre linéaire avancé (MATH 252) in the Winter
+I also taught the following courses at Concordia University:
+ * Advanced Calculus (differential, multivariate) (MATH 264) in the Fall 2023 and in the Winter 2024
+ * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall 2023
+ * Applied Ordinary Differential Equations (ENGR 213) in the Fall 2023
+ * Advanced Linear Algebra (MATH 252) in the Winter 2024
 
 Details about the courses are available on Moodle for enrolled students
 
@@ -30,7 +35,8 @@ I taught [General Mathematics (MAT0339)](mat0339.html) at UQAM in the Fall of 20
 
 ## Mentoring
 
-At Dartmouth, I mentored students doing reading courses and independent research:
+At Dartmouth and at Concordia, I mentored students doing reading courses and independent research:
+* Étienne Dyer worked on Conway's Angel problem when he was cosupervised by Assaf Shani and myself. Étienne was funded by the Concordia University Summer Research Award. (Summer 2024)
 * Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383), to appear in _Involve_. Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
 * Roxy Holden and I worked on applying Markov Chains theory to cryptography problems such as Moving Target Defense, while she was at the Johns Hopkins University Applied Physiscs Laboratory. (2022-2023)
 * Peter Nielsen and Jay Chen did a reading course to learn how to use computational tools for mathematical research. (Fall 2022)

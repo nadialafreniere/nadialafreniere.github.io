@@ -4,24 +4,20 @@ lang: en
 ref: recherche
 ---
 
-My research area is algebraic combinatorics. More specifically, I study actions on combinatorial structures, mostly permutations. On the one hand, I study spectral properties (eigenvalues, eigenvectors) of random walks corresponding to card shuffling which I explain in the following excerpts from national media (in French):
-
-- In a video for the show _Électrons Libres_, on Télé-Québec (the video might not be available anymore)
-[![Video for the show _Électrons libres_, on Télé-Québec](https://images.telequebec.tv/medias/036666/default/w1920_h1080.jpg)](https://electronslibres.telequebec.tv/episodes/36666)
-
-- [For the mathematics magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
+My research area is algebraic combinatorics. More specifically, I study actions on combinatorial structures, mostly permutations. On the one hand, I study spectral properties (eigenvalues, eigenvectors) of random walks corresponding to card shuffling which I explain, in French, [for the mathematics magazine _Accromath_](https://accromath.uqam.ca/2021/10/ordre-et-desordre-comment-y-arriver-rapidement/)
 
 Recently, I also got interested into dynamical algebraic combinatorics, which is the study of combinatorial actions and their orbits from an enumerative perspective. I also worked in combinatorics on words in the past.
 
-### Preprints 
+### Preprints  
+- [Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. _The skew immaculate Hecke poset and 0-Hecke modules_. Soumis pour révision.](https://arxiv.org/abs/2409.00709)
 - [Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 
 ### Published papers
 - [Will Dowling, Nadia Lafrenière. _Homomesy on permutations with toggling actions_. To appear in _Involve_.](https://arxiv.org/abs/2312.02383)
 - [Nadia Lafrenière, Yan Zhuang. _On the rix statistic and valley-hopping._ Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.](https://dmtcs.episciences.org/13136/pdf)
-- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.](https://alco.centre-mersenne.org/articles/10.5802/alco.346/)
+- [Darij Grinberg, Nadia Lafrenière. _The one-sided cycle shuffles in the symmetric group algebra_. Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.](https://alco.centre-mersenne.org/articles/10.5802/alco.346/)  This is a corresponding [extended abstract for FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/16.html)
 - [Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. _The cutoff phenomenon in finite Markov chains._ Snapshots of Modern Mathematics from Oberwolfach, no. 5, 2023.](https://publications.mfo.de/handle/mfo/4094)
-- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Accepted for publication in Journal of Combinatorics.](https://arxiv.org/abs/2307.08520)
+- [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Toggling, rowmotion, and homomesy on interval-closed sets._ Journal of Combinatorics, vol. 15, no. 4, 2024.](https://arxiv.org/abs/2307.08520)
 - [Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. _Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_, Mathematics of Computations, 2023, 56 p.](https://arxiv.org/abs/2206.13409)
 - [Nadia Lafrenière. _Eigenvalues of symmetrized shuffling operators_. FPSAC 2019, 12 pp.](https://arxiv.org/abs/1811.07196)
 - [Damien Jamet, Nadia Lafrenière, Xavier Provençal. _Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_. DGCI 2016, pp. 45-56.](JLP-DGCI2016.pdf)
