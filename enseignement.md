@@ -10,6 +10,7 @@ En 2024-2025, j'enseigne les cours suivants à l'Université Concordia:
  * Calcul multivarié différentiel (MAST 218, MATH 264) et intégral (MAST 219, MATH 265), tous les deux à l'automne et à l'hiver 
  * Équations différentielles ordinaires (MAST 330) à l'automne
  * Algèbre linéaire avancé (MATH 252) à l'hiver
+ 
 J'ai aussi enseigné dans le passé les cours suivants à l'Université Concordia:
  * Calcul avancé (différentiel, multivarié) (MATH 264) à l'automne 2023 et à l'hiver 2024
  * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233) à l'automne 2023
