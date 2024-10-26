@@ -39,7 +39,7 @@ Je fais partie d'un groupe qui cherche à comprendre les modules agissant sur le
 
 ## Combinatoire des mots et géométrie discrète
 Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécifiquement sur les palindromes (des mots comme kayak, radar ou Hannah), avec [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et [Xavier Provençal](http://xprov.org/). J'ai également étudié des algorithmes de génération digitale en lien avec la combinatoire des mots. Mon mémoire de maîtrise portait sur différents aspects des palindromes dans les mots finis:
-- Nadia Lafrenière. _Complexité palindromique des mots et des arbres_, mémoire de maîtrise, Université du Québec à Montréal, 2016.](memoire.pdf)
+- Nadia Lafrenière. [_Complexité palindromique des mots et des arbres_](memoire.pdf), mémoire de maîtrise, Université du Québec à Montréal, 2016.
 
 ### Articles reliés
 - Damien Jamet, Nadia Lafrenière, Xavier Provençal. [_Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_](JLP-DGCI2016.pdf). DGCI 2016, pp. 45-56.
