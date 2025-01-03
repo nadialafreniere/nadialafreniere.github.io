@@ -9,6 +9,7 @@ My research area is algebraic combinatorics. More specifically, I study actions 
 Recently, I also got interested into dynamical algebraic combinatorics, which is the study of combinatorial actions and their orbits from an enumerative perspective. I also worked in combinatorics on words in the past.
 
 ### Preprints  
+- Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368)
 - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://arxiv.org/abs/2409.00709)
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 
@@ -17,7 +18,7 @@ Recently, I also got interested into dynamical algebraic combinatorics, which is
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
 - Darij Grinberg, Nadia Lafrenière. [_The one-sided cycle shuffles in the symmetric group algebra_](https://alco.centre-mersenne.org/articles/10.5802/alco.346/). Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.  This is a corresponding [extended abstract for FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/16.html).
 - Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. [_The cutoff phenomenon in finite Markov chains._](https://publications.mfo.de/handle/mfo/4094) Snapshots of Modern Mathematics from Oberwolfach, no. 5, 2023.
-- Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Toggling, rowmotion, and homomesy on interval-closed sets._](https://arxiv.org/abs/2307.08520) Journal of Combinatorics, vol. 15, no. 4, 2024.
+- Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Toggling, rowmotion, and homomesy on interval-closed sets._](ELMSW-ICS1.pdf) Journal of Combinatorics, vol. 15, no. 4, 2024.
 - Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_](https://arxiv.org/abs/2206.13409), Mathematics of Computations, 2023, 56 p.
 - Nadia Lafrenière. [_Eigenvalues of symmetrized shuffling operators_.](https://arxiv.org/abs/1811.07196) FPSAC 2019, 12 pp.
 - Damien Jamet, Nadia Lafrenière, Xavier Provençal. [_Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_.](JLP-DGCI2016.pdf) DGCI 2016, pp. 45-56.

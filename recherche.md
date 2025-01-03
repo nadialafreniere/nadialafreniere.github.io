@@ -25,10 +25,11 @@ Ma thèse de doctorat, soutenue en novembre 2019, portait sur deux familles de m
 Je suis particulièrement intéressée par les propriétés des actions sur les structures combinatoires, notamment les permutations et les ensembles partiellement ordonnés (posets). Pour une action donnée, on décompose un ensemble en orbites, puis on étudie les propriétés énumératives de ces orbites, notamment l'homomésie et le criblage cyclique. Cette recherche est largement basée sur l'exploration informatique, ce qui m'a poussée à contribuer à [FindStat)](https://www.findstat.org).
 
 ### Articles reliés
+- Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368) Soumis pour révision.
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251) Soumis pour révision.
 - Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383) Accepté pour publication dans Involve.
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
-- Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Toggling, rowmotion, and homomesy on interval-closed sets._](https://arxiv.org/abs/2307.08520) Journal of Combinatorics, vol. 15, no. 4, 2024.
+- Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Toggling, rowmotion, and homomesy on interval-closed sets._](ELMSW-ICS1.pdf) Journal of Combinatorics, vol. 15, no. 4, 2024.
 - Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_](https://arxiv.org/abs/2206.13409). Mathematics of Computations, 2023, 56 p.
 
 ## Combinatoire des tableaux et fonctions quasisymétriques
