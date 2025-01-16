@@ -10,16 +10,16 @@ ref: enseignement
 In 2024-2025, I'm teaching the following courses at Concordia University:
  * Analysis in the Summer
  * Multivariate Calculus: Differential (MAST 218, MATH 264) and integral (MAST 219, MATH 265), both in the Fall and in the Winter
- * Équations différentielles ordinaires (MAST 330) in the Fall
- * Algèbre linéaire avancé (MATH 252) in the Winter
+ * Ordinary Differential Equations (MAST 330) in the Fall
+ * Advanced Linear Algebra (MATH 252) in the Winter
  
 I also taught the following courses at Concordia University:
  * Advanced Calculus (differential, multivariate) (MATH 264) in the Fall 2023 and in the Winter 2024
  * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall 2023
  * Applied Ordinary Differential Equations (ENGR 213) in the Fall 2023
- * Advanced Linear Algebra (MATH 252) in the Winter 2024
+ * Advanced Linear Algebra (MATH 252) in the Winter 2024 ([notes](MATH252_All_lectures_2024.pdf))
 
-Details about the courses are available on Moodle for enrolled students
+Details about the courses are available on Moodle for enrolled students.
 
 In the past years, I taught following courses at Dartmouth College:
  * Calculus (MATH 3), in [Fall 2020](https://math.dartmouth.edu/~m3f20) and [Fall 2022](https://canvas.dartmouth.edu/courses/54901)

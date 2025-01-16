@@ -15,7 +15,7 @@ J'ai aussi enseigné dans le passé les cours suivants à l'Université Concordi
  * Calcul avancé (différentiel, multivarié) (MATH 264) à l'automne 2023 et à l'hiver 2024
  * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233) à l'automne 2023
  * Équations différentielles ordinaires et applications (ENGR 213) à l'automne 2023
- * Algèbre linéaire avancé (MATH 252) à l'hiver 2024
+ * Algèbre linéaire avancé (MATH 252) à l'hiver 2024 ([notes, en anglais](MATH252_All_lectures_2024.pdf))
 
 Les détails des cours sont disponibles sur Moodle pour les étudiantes et étudiants inscrits
 
