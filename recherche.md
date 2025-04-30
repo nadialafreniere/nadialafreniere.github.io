@@ -36,7 +36,7 @@ Je suis particulièrement intéressée par les propriétés des actions sur les 
 Je fais partie d'un groupe qui cherche à comprendre les modules agissant sur les fonctions quasisymétriques grâce à la combinatoire des tableaux. On déduit des propriétés liées à la théorie de la représentation grâce à des méthodes tout à fait combinatoires.
 
 ### Article relié
- - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://arxiv.org/abs/2409.00709) À paraître dans _Electronic Journal of Combinatorics_.
+ - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://doi.org/10.37236/13350) Electronic Journal of Combinatorics, vol. 32, no. 2, article #P2.11, 34 p.
 
 ## Combinatoire des mots et géométrie discrète
 Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécifiquement sur les palindromes (des mots comme kayak, radar ou Hannah), avec [Srecko Brlek](http://lacim.uqam.ca/~brlek/) et [Xavier Provençal](http://xprov.org/). J'ai également étudié des algorithmes de génération digitale en lien avec la combinatoire des mots. Mon mémoire de maîtrise portait sur différents aspects des palindromes dans les mots finis:

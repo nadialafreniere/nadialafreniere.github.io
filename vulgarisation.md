@@ -27,6 +27,8 @@ Lors de quelques éditions du 24 heures de sciences, j'ai présenté avec [Pauli
 
 **Au niveau primaire**, j'ai présenté avec le Coeur des Sciences la pièce de théâtre [_L'été, c'est mathématique!_](http://coeurdessciences.uqam.ca/component/eventlist/details/710-l-ete-c-est-mathematique.html) En solo, je peux aussi présenter un atelier sur la théorie des graphes. Enfin, l'activité _Maths et magie_ se prête bien à un public de tous les niveaux primaires.
 
+**Pour les enseignantes et enseignants, du primaire à l'université**, je suis une des organisatrices des [_Points de convergence_](https://sites.google.com/view/les-points-de-convergence/accueil), une journée annuelle de développement professionnel et de réseautage lors de laquelle on explore des connections amusantes entre les maths et d'autres domaines.
+
 <img src="nadia_skday2023.png" title="Alors que je montrais des trucs de mathémagie à des filles d'école secondaire, à l'université Dartmouth College en 2023.">
 <img src="Nadia_Chicago.jpg" title="En train d'expliquer la topologie du Cloud Gate à Chicago à un groupe d'élèves du secondaire. C'était dans le cadre d'une adaptation de la balade Maths en ville à cette ville, en 2018.">
 

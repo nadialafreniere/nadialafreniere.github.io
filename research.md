@@ -13,7 +13,7 @@ Recently, I also got interested into dynamical algebraic combinatorics, which is
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 
 ### Published papers
-- Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://arxiv.org/abs/2409.00709) To appear in _Electronic Journal of Combinatorics_.
+ - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://doi.org/10.37236/13350) Electronic Journal of Combinatorics, vol. 32, no. 2, article #P2.11, 34 p.
 - Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_](https://arxiv.org/abs/2312.02383). To appear in _Involve_.
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
 - Darij Grinberg, Nadia Lafrenière. [_The one-sided cycle shuffles in the symmetric group algebra_](https://alco.centre-mersenne.org/articles/10.5802/alco.346/). Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.  This is a corresponding [extended abstract for FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/16.html).
