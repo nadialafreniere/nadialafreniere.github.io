@@ -25,7 +25,7 @@ Ma thèse de doctorat, soutenue en novembre 2019, portait sur deux familles de m
 Je suis particulièrement intéressée par les propriétés des actions sur les structures combinatoires, notamment les permutations et les ensembles partiellement ordonnés (posets). Pour une action donnée, on décompose un ensemble en orbites, puis on étudie les propriétés énumératives de ces orbites, notamment l'homomésie et le criblage cyclique. Cette recherche est largement basée sur l'exploration informatique, ce qui m'a poussée à contribuer à [FindStat)](https://www.findstat.org).
 
 ### Articles reliés
-- Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains_](https://arxiv.org/abs/2505.04000) Soumis pour révision.
+- Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains_](https://arxiv.org/abs/2505.04000). Soumis pour révision.
 - Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368) Soumis pour révision.
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251) Soumis pour révision.
 - Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383) Accepté pour publication dans Involve.

@@ -9,7 +9,7 @@ My research area is algebraic combinatorics. More specifically, I study actions 
 Recently, I also got interested into dynamical algebraic combinatorics, which is the study of combinatorial actions and their orbits from an enumerative perspective. I also worked in combinatorics on words in the past.
 
 ### Preprints  
-- Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains_](https://arxiv.org/abs/2505.04000)
+- Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains._](https://arxiv.org/abs/2505.04000)
 - Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368)
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 
