@@ -36,7 +36,8 @@ Je suis particulièrement intéressée par les propriétés des actions sur les 
 ## Combinatoire des tableaux et fonctions quasisymétriques
 Je fais partie d'un groupe qui cherche à comprendre les modules agissant sur les fonctions quasisymétriques grâce à la combinatoire des tableaux. On déduit des propriétés liées à la théorie de la représentation grâce à des méthodes tout à fait combinatoires.
 
-### Article relié
+### Articles reliés
+ - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_Minimal elements in the skew extended 0-Hecke poset_.](https://arxiv.org/abs/2509.05918) Soumis pour révision, 25 p.
  - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://doi.org/10.37236/13350) Electronic Journal of Combinatorics, vol. 32, no. 2, article #P2.11, 34 p.
 
 ## Combinatoire des mots et géométrie discrète
