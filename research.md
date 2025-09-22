@@ -12,16 +12,16 @@ Recently, I also got interested into dynamical algebraic combinatorics, which is
  - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_Minimal elements in the skew extended 0-Hecke poset_.](https://arxiv.org/abs/2509.05918)
 - Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains._](https://arxiv.org/abs/2505.04000)
 - Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368)
-- Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251)
 
 ### Published papers
+- Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251) To appear in Mathematics of Computation.
  - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://doi.org/10.37236/13350) Electronic Journal of Combinatorics, vol. 32, no. 2, article #P2.11, 2025, 34 p.
 - Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_](https://arxiv.org/abs/2312.02383). To appear in _Involve_.
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
 - Darij Grinberg, Nadia Lafrenière. [_The one-sided cycle shuffles in the symmetric group algebra_](https://alco.centre-mersenne.org/articles/10.5802/alco.346/). Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.  This is a corresponding [extended abstract for FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/16.html).
 - Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. [_The cutoff phenomenon in finite Markov chains._](https://publications.mfo.de/handle/mfo/4094) Snapshots of Modern Mathematics from Oberwolfach, no. 5, 2023.
 - Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Toggling, rowmotion, and homomesy on interval-closed sets._](ELMSW-ICS1.pdf) Journal of Combinatorics, vol. 15, no. 4, 2024.
-- Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_](https://arxiv.org/abs/2206.13409), Mathematics of Computations, 2023, 56 p.
+- Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_](https://arxiv.org/abs/2206.13409), Mathematics of Computation, 2023, 56 p.
 - Nadia Lafrenière. [_Eigenvalues of symmetrized shuffling operators_.](https://arxiv.org/abs/1811.07196) FPSAC 2019, 12 pp.
 - Damien Jamet, Nadia Lafrenière, Xavier Provençal. [_Generation of Digital Planes Using Generalized Continued-Fractions Algorithms_.](JLP-DGCI2016.pdf) DGCI 2016, pp. 45-56.
 - Srecko Brlek, Nadia Lafrenière, Xavier Provençal. [_Palindromic Complexity of Trees_.](https://arxiv.org/abs/1505.02695) DLT 2015, pp. 155-166.
