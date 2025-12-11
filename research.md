@@ -11,12 +11,12 @@ Recently, I also got interested into dynamical algebraic combinatorics, which is
 ### Preprints
  - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_Minimal elements in the skew extended 0-Hecke poset_.](https://arxiv.org/abs/2509.05918)
 - Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains._](https://arxiv.org/abs/2505.04000)
-- Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368)
 
 ### Published papers
+- Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks,_](https://arxiv.org/abs/2412.16368) To appear in Journal of Combinatorics.
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251) To appear in Mathematics of Computation.
  - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://doi.org/10.37236/13350) Electronic Journal of Combinatorics, vol. 32, no. 2, article #P2.11, 2025, 34 p.
-- Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_](https://arxiv.org/abs/2312.02383). To appear in _Involve_.
+- Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_](https://arxiv.org/abs/2312.02383), Involve, Vol. 18, no. 5, pp. 829–854.
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
 - Darij Grinberg, Nadia Lafrenière. [_The one-sided cycle shuffles in the symmetric group algebra_](https://alco.centre-mersenne.org/articles/10.5802/alco.346/). Algebraic Combinatorics,  Volume 7 (2024) no. 2, pp. 275-326.  This is a corresponding [extended abstract for FPSAC](https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2024/16.html).
 - Isabelle Baraquin, Nadia Lafrenière, Katharina Schuh. [_The cutoff phenomenon in finite Markov chains._](https://publications.mfo.de/handle/mfo/4094) Snapshots of Modern Mathematics from Oberwolfach, no. 5, 2023.
@@ -36,6 +36,7 @@ My master's thesis was on combinatorics on words, and more specifically about pa
 
 
 ## Selected talks
+- _Le temps en mathématiques : efficacité, beauté et complexité des résultats mathématiques_ (with Judith Sadja), Espace mathématique francophone 2025 (public lecture), May 26, 2025.
 - _Tricher à l'aide des mathématiques_, Grandes conférences du Centre de recherches mathématiques, March 14, 2024. [Video](https://www.youtube.com/watch?v=B5qUY1nU8GY).
 - _Rowmotion on Interval-closed sets_, Commutative Algebra meets Algebraic Combinatorics (CAAC), Januar 26, 2024. [Slides](Lafreniere_CAAC_ICS.pdf).
 - _How many times should you shuffle a deck or cards?_, Graduate Online Combinatorics Colloquium (invited as an expert; virtual), April 19, 2023. [Notes](Lafreniere_GOCC.pdf)

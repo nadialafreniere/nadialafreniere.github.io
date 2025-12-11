@@ -26,9 +26,9 @@ Je suis particulièrement intéressée par les propriétés des actions sur les 
 
 ### Articles reliés
 - Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains_](https://arxiv.org/abs/2505.04000). Soumis pour révision.
-- Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368) Soumis pour révision.
+- Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks._](https://arxiv.org/abs/2412.16368) Accepté pour publication dans Journal of Combinatorics.
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251) Accepté pour publication dans Mathematics of Computation.
-- Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_.](https://arxiv.org/abs/2312.02383) Accepté pour publication dans Involve.
+- Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_,](https://arxiv.org/abs/2312.02383) Involve, Vol. 18, no. 5, pp. 829–854.
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
 - Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Toggling, rowmotion, and homomesy on interval-closed sets._](ELMSW-ICS1.pdf) Journal of Combinatorics, vol. 15, no. 4, 2024.
 - Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Homomesies on permutations -- an analysis of maps and statistics in the FindStat database_](https://arxiv.org/abs/2206.13409). Mathematics of Computation, 2023, 56 p.
@@ -50,6 +50,7 @@ Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécif
 - Srecko Brlek, Nadia Lafrenière. [_Reconstructing Words from a σ-palindromic Language_.](BL-sigma-pal.pdf) Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.
 
 ## Exposés sélectionnés
+- _Le temps en mathématiques : efficacité, beauté et complexité des résultats mathématiques_ (avec Judith Sadja), Espace mathématique francophone 2025 (conférence grand public), 26 mai 2025.
 - _Tricher à l'aide des mathématiques_, Grandes conférences du Centre de recherches mathématiques, 14 mars 2024. [Vidéo](https://www.youtube.com/watch?v=B5qUY1nU8GY).
 - _Rowmotion on Interval-closed sets_, Commutative Algebra meets Algebraic Combinatorics (CAAC), 26 janvier 2024. [Support visuel](Lafreniere_CAAC_ICS.pdf).
 - _How many times should you shuffle a deck or cards?_, Colloque virtuel de combinatoire des cycles supérieurs (invitée à titre d'experte; exposé virtuel), 19 avril 2023. [Notes](Lafreniere_GOCC.pdf)

@@ -7,17 +7,21 @@ ref: enseignement
 
 ## Courses for which I was the instructor
 
-In 2024-2025, I'm teaching the following courses at Concordia University:
- * Analysis in the Summer
- * Multivariate Calculus: Differential (MAST 218, MATH 264) and integral (MAST 219, MATH 265), both in the Fall and in the Winter
- * Ordinary Differential Equations (MAST 330) in the Fall
+In 2025-2026, I'm teaching the following courses at Concordia University:
+ * Mathematics with Computer Algebra (MAST 232), both in the Fall and in the Winter
+ * Multivariable Differential Calculus (MAST 218) in the Fall
+ * Multivariable Integral and Vector Calculus (MAST 219) in the Winter
+ * Ordinary Differential Equations (MATH 370) in the Fall
  * Advanced Linear Algebra (MATH 252) in the Winter
  
 I also taught the following courses at Concordia University:
- * Advanced Calculus (differential, multivariate) (MATH 264) in the Fall 2023 and in the Winter 2024
+ * Analysis (MATH 364), in the Summer 2024
+ * Advanced Calculus (differential, multivariable) (MATH 264/MAST 218), each semester since Fall 2023
+ * Advanced Calculus (multivariable, integral and vector calculus) (MATH 265/MAST 219), Fall 2024 and Winter 2025
+ * Ordinary Differential Equations (MAST 330) in the Fall 2024
  * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall 2023
  * Applied Ordinary Differential Equations (ENGR 213) in the Fall 2023
- * Advanced Linear Algebra (MATH 252) in the Winter 2024 ([notes](MATH252_All_lectures_2024.pdf))
+ * Advanced Linear Algebra (MATH 252) in Winters 2024 and 2025 ([notes](MATH252_All_lectures_2024.pdf))
 
 Details about the courses are available on Moodle for enrolled students.
 
@@ -31,12 +35,13 @@ In the past years, I taught following courses at Dartmouth College:
  * [Topics in Combinatorics, Analysis of Algorithms (graduate, MATH 118)](https://canvas.dartmouth.edu/courses/44288), in the Winter 2021
 
 
-I taught [General Mathematics (MAT0339)](mat0339.html) at UQAM in the Fall of 2018.
+I taught General Mathematics (MAT0339) at UQAM in the Fall of 2018.
 
 
 ## Mentoring
 
 At Dartmouth and at Concordia, I mentored students doing reading courses and independent research:
+* Alex Berzan and Tanner Slutsken worked on an open problem of Erdős on a clique-building game in graphs as part of their capstone course in mathematics at John Abbott College (Winter 2025).
 * Étienne Dyer worked on Conway's Angel problem when he was cosupervised by Assaf Shani and myself. Étienne was funded by the Concordia University Summer Research Award. (Summer 2024)
 * Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383), to appear in _Involve_. Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
 * Roxy Holden and I worked on applying Markov Chains theory to cryptography problems such as Moving Target Defense, while she was at the Johns Hopkins University Applied Physiscs Laboratory. (2022-2023)
