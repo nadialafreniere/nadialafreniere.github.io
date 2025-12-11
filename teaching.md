@@ -31,7 +31,7 @@ In the past years, I taught following courses at Dartmouth College:
  * [Probability (MATH 20)](https://canvas.dartmouth.edu/courses/58340), in the Spring 2023
  * Graph Theory (MATH 38), in [Spring 2020](https://math.dartmouth.edu/~m38s20), [Spring 2021](https://canvas.dartmouth.edu/courses/46201), and [Spring 2022](https://canvas.dartmouth.edu/courses/52242/)
  * Algebraic Combinatorics (MATH 68), in [Fall 2019](https://math.dartmouth.edu/~m68f19) and [Fall 2021](https://math.dartmouth.edu/~m68f21)
- * [Topics in Combinatroics, Geometric Combinatorics (graduate, MATH 108)](https://canvas.dartmouth.edu/courses/56422), in the Winter 2023
+ * [Topics in Combinatorics, Geometric Combinatorics (graduate, MATH 108)](https://canvas.dartmouth.edu/courses/56422), in the Winter 2023
  * [Topics in Combinatorics, Analysis of Algorithms (graduate, MATH 118)](https://canvas.dartmouth.edu/courses/44288), in the Winter 2021
 
 
@@ -43,7 +43,7 @@ I taught General Mathematics (MAT0339) at UQAM in the Fall of 2018.
 At Dartmouth and at Concordia, I mentored students doing reading courses and independent research:
 * Alex Berzan and Tanner Slutsken worked on an open problem of Erdős on a clique-building game in graphs as part of their capstone course in mathematics at John Abbott College (Winter 2025).
 * Étienne Dyer worked on Conway's Angel problem when he was cosupervised by Assaf Shani and myself. Étienne was funded by the Concordia University Summer Research Award. (Summer 2024)
-* Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383), to appear in _Involve_. Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
+* Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383), that appeared in _Involve_. Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
 * Roxy Holden and I worked on applying Markov Chains theory to cryptography problems such as Moving Target Defense, while she was at the Johns Hopkins University Applied Physiscs Laboratory. (2022-2023)
 * Peter Nielsen and Jay Chen did a reading course to learn how to use computational tools for mathematical research. (Fall 2022)
 * Roxy Holden did a reading course on Markov chain and Mixing times (Spring 2021)
