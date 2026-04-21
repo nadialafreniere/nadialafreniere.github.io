@@ -3,6 +3,8 @@ title: SageMath
 lang: fr
 ref: sage
 ---
+<a href="https://www.sagemath.org/">
+<img src="https://www.sagemath.org/pix/sage-banner-02.png"></a>
 
 ## Des mathématiques assistées par le logiciel [SageMath](https://www.sagemath.org)
 

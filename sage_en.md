@@ -1,3 +1,6 @@
+<a href="https://www.sagemath.org/">
+<img src="https://www.sagemath.org/pix/sage-banner-02.png"></a>
+
 ## Computer assisted mathematics with [SageMath](https://www.sagemath.org)
 
 For my research, as well as for teaching or outreach projects, I use SageMath. This is an open-source software developed by a dynamical community of mathematicians!
