@@ -5,21 +5,21 @@ ref: enseignement
 ---
 
 ## Cours enseignés
-En 2025-2026, j'enseigne les cours suivants à l'Université Concordia:
- * Mathématiques avec algèbre computationnelle (MAST 232), à l'automne et à l'hiver
- * Calcul multivarié différentiel (MAST 218), à l'automne
- * Calcul multivarié intégral et vectoriel (MAST 219), à l'hiver 
- * Équations différentielles ordinaires (MATH 370) à l'automne
- * Algèbre linéaire avancé (MATH 252) à l'hiver
+En 2026-2027, j'enseigne les cours suivants à l'Université Concordia:
+ * Le monde fascinant des nombres (MATH 212), à l'automne
+ * Algèbre linéaire (MATH 251), à l'automne et à l'hiver
+ * Calcul multivarié différentiel (MAST 218), à l'automne et à l'hiver
  
 J'ai aussi enseigné dans le passé les cours suivants à l'Université Concordia:
- * Analyse (MATH 364), à l'été 2024
- * Calcul avancé (différentiel, multivarié) (MATH 264/MAST 218), chaque session depuis l'automne 2023
- * Calcul avancé (intégral, multivarié et vectoriel) (MATH 265/MAST 219), à l'automne 2024 et à l'hiver 2025
- * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233) à l'automne 2023
- * Équations différentielles ordinaires (MAST 330) à l'automne 2024
- * Équations différentielles ordinaires et applications (ENGR 213) à l'automne 2023
- * Algèbre linéaire avancé (MATH 252) à l'hiver 2024 et à l'hiver 2025 ([notes, en anglais](MATH252_All_lectures_2024.pdf))
+ * Analyse (MATH 364)
+ * Mathématiques computationnelles (MAST 232)
+ * Algèbre linéaire avancé (MATH 252) ([notes, en anglais](MATH252_All_lectures_2024.pdf))
+ * Équations différentielles ordinaires (MAST 330/MATH 370)
+ * Calcul avancé (différentiel, multivarié) (MATH 264/MAST 218)
+ * Calcul avancé (intégral, multivarié et vectoriel) (MATH 265/MAST 219)
+ * Calcul avancé appliqué (différentiel et intégral, multivarié) (ENGR 233)
+ * Équations différentielles ordinaires et applications (ENGR 213)
+ 
 
 Les détails des cours sont disponibles sur Moodle pour les étudiantes et étudiants inscrits.
 
@@ -39,6 +39,7 @@ J'ai enseigné le cours de Mathématiques générales (MAT0339) à l'UQAM à l'a
 
 
 À Dartmouth et à Concordia, j'ai supervisé plusieurs étudiantes et étudiants dans le cadre de projets de recherche ou de lectures dirigées:
+* Kristen Peterson applique la combinatoire algébrique dynamique à l'étude des tableaux standards immaculés. Elle est stagiaire au LaCIM à l'été 2026.
 * Alex Berzan et Tanner Slutsken ont travaillé sur un problème ouvert d'Erdős concernant les probabilités de gagner un jeu équivalent à la construction de cliques dans les graphes dans le cadre de leur cours d'intégration en mathématiques au Collège John Abbott (Hiver 2025).
 * Étienne Dyer a travaillé sur le problème de l'ange de Conway dans le cadre d'un stage cosupervisé par Assaf Shani et moi-même. Étienne était financé par le programme de bourses de recherche de premier cycle de l'Université Concordia. (Été 2024)
 * Will Dowling a travaillé sur le phénomène d'homomésie sur les permutations, ce qui a mené à [un article](https://arxiv.org/abs/2312.02383), paru dans _Involve_. Will a été financé par le programme d'assistanat de recherche au premier cycle à Dartmouth. (2022-2023)

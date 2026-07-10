@@ -7,21 +7,20 @@ ref: enseignement
 
 ## Courses for which I was the instructor
 
-In 2025-2026, I'm teaching the following courses at Concordia University:
- * Mathematics with Computer Algebra (MAST 232), both in the Fall and in the Winter
- * Multivariable Differential Calculus (MAST 218) in the Fall
- * Multivariable Integral and Vector Calculus (MAST 219) in the Winter
- * Ordinary Differential Equations (MATH 370) in the Fall
- * Advanced Linear Algebra (MATH 252) in the Winter
+In 2026-2027, I'm teaching the following courses at Concordia University:
+ * The Fascinating World of Numbers (MATH 212), in the Fall
+ * Linear Algebra I (MATH 251), in the Fall and in the Winter
+ * Advanced Calculus (differential, multivariable) (MATH 264/MAST 218), in the Fall and in the Winter 
  
 I also taught the following courses at Concordia University:
- * Analysis (MATH 364), in the Summer 2024
- * Advanced Calculus (differential, multivariable) (MATH 264/MAST 218), each semester since Fall 2023
- * Advanced Calculus (multivariable, integral and vector calculus) (MATH 265/MAST 219), Fall 2024 and Winter 2025
- * Ordinary Differential Equations (MAST 330) in the Fall 2024
- * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233) in the Fall 2023
- * Applied Ordinary Differential Equations (ENGR 213) in the Fall 2023
- * Advanced Linear Algebra (MATH 252) in Winters 2024 and 2025 ([notes](MATH252_All_lectures_2024.pdf))
+ * Analysis (MATH 364)
+ * Mathematics with Computer Algebra (MAST 232)
+ * Advanced Linear Algebra (MATH 252) ([notes](MATH252_All_lectures_2024.pdf))
+ * Ordinary Differential Equations (MAST 330/MATH 370)
+ * Advanced Calculus (differential, multivariable) (MATH 264/MAST 218)
+ * Advanced Calculus (multivariable, integral and vector calculus) (MATH 265/MAST 219)
+ * Applied Advanced Calculus (differential and integral, multivariate) (ENGR 233)
+ * Applied Ordinary Differential Equations (ENGR 213)
 
 Details about the courses are available on Moodle for enrolled students.
 
@@ -41,6 +40,7 @@ I taught General Mathematics (MAT0339) at UQAM in the Fall of 2018.
 ## Mentoring
 
 At Dartmouth and at Concordia, I mentored students doing reading courses and independent research:
+* Kristen Peterson is working on dynamical algebraic combinatorics on standard immaculate tableaux in the Summer 2026, as a research intern at LaCIM.
 * Alex Berzan and Tanner Slutsken worked on an open problem of Erdős on a clique-building game in graphs as part of their capstone course in mathematics at John Abbott College (Winter 2025).
 * Étienne Dyer worked on Conway's Angel problem when he was cosupervised by Assaf Shani and myself. Étienne was funded by the Concordia University Summer Research Award. (Summer 2024)
 * Will Dowling worked on homomesy on permutations, and his work led to [a paper](https://arxiv.org/abs/2312.02383), that appeared in _Involve_. Will was funded by the program for Undergraduate research assistantship at Dartmouth. (2022-2023)
