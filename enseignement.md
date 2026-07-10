@@ -6,6 +6,7 @@ ref: enseignement
 
 ## Cours enseignés
 En 2026-2027, j'enseigne les cours suivants à l'Université Concordia:
+ * Analyse (MATH 364), à l'été
  * Le monde fascinant des nombres (MATH 212), à l'automne
  * Algèbre linéaire (MATH 251), à l'automne et à l'hiver
  * Calcul multivarié différentiel (MAST 218), à l'automne et à l'hiver

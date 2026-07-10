@@ -8,6 +8,7 @@ ref: enseignement
 ## Courses for which I was the instructor
 
 In 2026-2027, I'm teaching the following courses at Concordia University:
+ * Analysis (MATH 364), in the Summer
  * The Fascinating World of Numbers (MATH 212), in the Fall
  * Linear Algebra I (MATH 251), in the Fall and in the Winter
  * Advanced Calculus (differential, multivariable) (MATH 264/MAST 218), in the Fall and in the Winter 
