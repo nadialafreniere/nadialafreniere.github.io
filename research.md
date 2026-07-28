@@ -12,9 +12,9 @@ Recently, I also got interested into dynamical algebraic combinatorics, which is
 - Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Interval-closed set rowmotion and homomesy on products of two chains._](https://arxiv.org/abs/2505.04000)
 
 ### Published papers
- - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_Minimal elements in the skew extended 0-Hecke poset_.](https://arxiv.org/abs/2509.05918) To appear in Advances in Applied Mathematics.
 - Sergi Elizalde, Nadia Lafrenière, Joel Brewster Lewis, Erin McNicholas, Jessica Striker, Amanda Welch. [_Enumeration of interval-closed sets via Motzkin paths and quarter-plane walks,_](https://arxiv.org/abs/2412.16368) To appear in Journal of Combinatorics.
 - Ashleigh Adams, Jennifer Elder, Nadia Lafrenière, Erin McNicholas, Jessica Striker, Amanda Welch. [_Cyclic sieving on permutations -- an analysis of maps and statistics in the FindStat database._](https://arxiv.org/abs/2402.16251) To appear in Mathematics of Computation.
+ - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_Minimal elements in the skew extended 0-Hecke poset_.](https://arxiv.org/abs/2509.05918) Advances in Applied Mathematics, vol 179, Paper No. 103100, 2026, 25 pp.
  - Nadia Lafrenière, Rosa Orellana, Anna Pun, Sheila Sundaram, Stephanie van Willigenburg, Tamsen Whitehead McGinley. [_The skew immaculate Hecke poset and 0-Hecke modules_.](https://doi.org/10.37236/13350) Electronic Journal of Combinatorics, vol. 32, no. 2, article #P2.11, 2025, 34 p.
 - Will Dowling, Nadia Lafrenière. [_Homomesy on permutations with toggling actions_](https://arxiv.org/abs/2312.02383), Involve, Vol. 18, no. 5, pp. 829–854.
 - Nadia Lafrenière, Yan Zhuang. [_On the rix statistic and valley-hopping._](https://dmtcs.episciences.org/13136/pdf) Discrete Mathematics and Theoretical Computer Science, vol. 26:2, no. 3, 2024, 27 p.
