@@ -50,6 +50,7 @@ Pour ma maîtrise, j'ai travaillé sur la combinatoire des mots, et plus spécif
 - Srecko Brlek, Nadia Lafrenière. [_Reconstructing Words from a σ-palindromic Language_.](BL-sigma-pal.pdf) Fundamenta Informaticae, Vol.  135 no. 1-2, 2014, pp. 59-72.
 
 ## Exposés sélectionnés
+- _Understanding card shuffling using representation theory_, Colloque du Département de physique de Concordia, 21 octobre 2026.
 - _Le temps en mathématiques : efficacité, beauté et complexité des résultats mathématiques_ (avec Judith Sadja), Espace mathématique francophone 2025 (conférence grand public), 26 mai 2025.
 - _Tricher à l'aide des mathématiques_, Grandes conférences du Centre de recherches mathématiques, 14 mars 2024. [Vidéo](https://www.youtube.com/watch?v=B5qUY1nU8GY).
 - _Rowmotion on Interval-closed sets_, Commutative Algebra meets Algebraic Combinatorics (CAAC), 26 janvier 2024. [Support visuel](Lafreniere_CAAC_ICS.pdf).

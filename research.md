@@ -36,6 +36,7 @@ My master's thesis was on combinatorics on words, and more specifically about pa
 
 
 ## Selected talks
+- _Understanding card shuffling using representation theory_, Concordia Physics Colloquium, October 21, 2026.
 - _Le temps en mathématiques : efficacité, beauté et complexité des résultats mathématiques_ (with Judith Sadja), Espace mathématique francophone 2025 (public lecture), May 26, 2025.
 - _Tricher à l'aide des mathématiques_, Grandes conférences du Centre de recherches mathématiques, March 14, 2024. [Video](https://www.youtube.com/watch?v=B5qUY1nU8GY).
 - _Rowmotion on Interval-closed sets_, Commutative Algebra meets Algebraic Combinatorics (CAAC), Januar 26, 2024. [Slides](Lafreniere_CAAC_ICS.pdf).

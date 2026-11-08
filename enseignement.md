@@ -27,7 +27,7 @@ Les détails des cours sont disponibles sur Moodle pour les étudiantes et étud
 Dans le passé, j'ai enseigné les cours suivants à l'université Dartmouth College :
  * Calcul différentiel (MATH 3), à l'[automne 2020](https://math.dartmouth.edu/~m3f20) et à l'[automne 2022](https://canvas.dartmouth.edu/courses/54901)
  * Calcul différentiel (MATH 8), [à l'automne 2019](https://math.dartmouth.edu/~m8f19), [à l'hiver 2020](https://math.dartmouth.edu/~m8w20) et à [l'hiver 2022](https://canvas.dartmouth.edu/courses/50321/)
- * [Probablités (MATH 20)](https://canvas.dartmouth.edu/courses/58340), au printemps 2023
+ * [Probabilités (MATH 20)](https://canvas.dartmouth.edu/courses/58340), au printemps 2023
  * Théorie des graphes (MATH 38), au [printemps 2020](https://math.dartmouth.edu/~m38s20), au [printemps 2021](https://canvas.dartmouth.edu/courses/46201) et au [printemps 2022](https://canvas.dartmouth.edu/courses/52242/)
  * Combinatoire algébrique (MATH 68), à [l'automne 2019](https://math.dartmouth.edu/~m68f19) et à [l'automne 2021](https://math.dartmouth.edu/~m68f21)
  * [Géométrie en combinatoire (cycles supérieurs, MATH 108)](https://canvas.dartmouth.edu/courses/56422), à l'hiver 2023
